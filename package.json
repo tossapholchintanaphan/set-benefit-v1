@@ -1,0 +1,18 @@
+{
+  "name": "set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "step:1": "node step1.js",
+    "step:2": "node step2.js",
+    "step:3": "node step3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "rimraf": "^3.0.2"
+  }
+}

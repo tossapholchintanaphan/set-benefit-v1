@@ -1,0 +1,1834 @@
+
+<!DOCTYPE html>
+<html lang="th">
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="th"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="th"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="th"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="th"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,IE=8">
+    <meta name="description" content="The Stock Exchange of Thailand: Your Investment Resource for Thailand's Capital Market">
+    <meta name="keywords" content="SET, mai, thai stocks, Thailand, stock, stock exchange, Thai capital market, equity, bond, derivatives, stock market, quotes, financial, internet trading, listed companies, IPO, regulations, broker, market data, investment information, news, investor education">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+    
+    
+    <title>ตลาดหลักทรัพย์แห่งประเทศไทย - ข้อมูลรายบริษัท/หลักทรัพย์</title>
+
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="stylesheet" href="/styles/bootstrap.min.css">
+    <link rel="stylesheet" href="/styles/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/styles/font-awesome.min.css">
+    <link rel="stylesheet" href="/styles/bootstrap-submenu.min.css">
+    <link rel="stylesheet" href="/styles/main.css">
+    <link rel="stylesheet" href="/styles/main-en.css">
+    <link rel="stylesheet" href="/styles/setstyle.css">
+    <link rel="stylesheet" href="/styles/main-responsive.css">
+    <link rel="stylesheet" href="/styles/tablet.css">
+    <link rel="stylesheet" href="/scripts/fullcalendar-2.1.1/fullcalendar.min.css">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/styles/ie.css"> <![endif]-->
+    <script src="/scripts/vendor/jquery.min.js"></script>
+    <!-- Start Other CSS -->
+    <!-- Start Chart CSS -->
+    <link rel="stylesheet" href="/styles/chart.css">
+    <!-- End Chart CSS -->
+    <!-- End Other CSS -->
+    <!--[if lt IE 9]>
+    <script src="/scripts/vendor/html5shiv.min.js"></script>
+    <script src="/scripts/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <![endif]-->
+    <!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '1613758345606983');
+	fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1613758345606983&ev=PageView&noscript=1"/></noscript>
+
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '226880918049905');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=226880918049905&ev=PageView&noscript=1"
+/></noscript>
+
+
+<!-- TSI 18/06/2018 - 31/12/2018 -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '171385340201265');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=171385340201265&ev=PageView&noscript=1"
+/></noscript>
+
+<!-- End Facebook Pixel Code -->
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M3TXWD9');</script>
+<!-- End Google Tag Manager -->
+
+<script src="/scripts/pdpa-script.js"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3TXWD9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<!-- Start header -->
+
+<div class="webonly">
+  <!-- Start header -->
+  <div id="mobile-language-sel" class="container mobile-language-selector collapse">
+    <p class="pull-left"><strong>Language :</strong></p>
+    <ul class="pull-right">
+      <li><a href="localeswitching.do?language=th&country=TH&nextpage=http%3A%2F%2Fmarketdata.set.or.th%2Fmkt%2Fstockquotation.do%3Fsymbol%3DABPIF%26ssoPageId%3D1" >ไทย</a></li>
+      
+        <li class="last-item"><a href="localeswitching.do?language=en&country=US&nextpage=http%3A%2F%2Fmarketdata.set.or.th%2Fmkt%2Fstockquotation.do%3Fsymbol%3DABPIF%26ssoPageId%3D1" >EN</a></li>
+      
+    </ul>
+  </div>
+
+  
+  <div class="header" id="header">
+    <div class="container logo_banner">
+      <div class="row">
+        <div class="col-xs-12 col-md-2 col-sm-4 logo_header">
+          <a href="https://www.set.or.th/th/index.html" class="logo-set-th"></a>
+          <ul class="pull-right mini-language-menu visible-xs">
+            <li><a href="#" class="btn btn-link btn-mobile-toggle-language" data-toggle="collapse" data-target="#mobile-language-sel">Language</a></li>
+            <li><a href="#" class="btn btn-link btn-mobile-signin" data-toggle="collapse" data-target="#login-box">ลงชื่อเข้าใช้</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-10 braner-and-search padding-0">
+          <!-- Top Banner area -->
+          <div class="visible-lg braner-header">
+            <!-- Start dfp code -->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function () {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function () {
+    googletag.defineSlot('/15511860/SET_TH_top_banner_728x90', [728, 90], 'div-gpt-ad-1330935727550-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+});
+</script>
+<!-- End dfp code -->
+<!-- SET_TH_top_banner_728x90 -->
+<div class="personalized-top-banner-optimize" style="display: none;">
+	<a href="#" target="_blank"><img src="#" style="width:100%;"></a>
+</div>
+<div class="personalized-top-banner" style="display:none;">
+	<div id='div-gpt-ad-1330935727550-0' style="width:728px; height:90px;">
+		<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1330935727550-0'); });</script>
+	</div>
+</div>
+          </div>
+          <div id="nav-form-search" class="search_header navbar-collapse collapse">
+            <form class="form-search" role="form" action="https://www.set.or.th/commons/searchresult.html" id="cse-search-box" target="_blank">
+              <input type="hidden" name="cx" value="partner-pub-0901699256947485:8450636272" />
+              <input type="hidden" name="cof" value="FORID:9" />
+              <input type="hidden" name="ie" value="UTF-8" />
+              <input type="hidden" type="submit" name="sa" value="&#x0e04;&#x0e49;&#x0e19;&#x0e2b;&#x0e32;" />
+              <div class="input-group">
+                <input type="text" class="input-search form-control not_focus " placeholder="Search" value="Search" name="q">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-default btn-search" type="button" onclick="javascript:submit();"><i class="fa fa-search"></i></button>
+                                </span>
+              </div>
+            </form>
+            <div class="row">
+              <div class="col-md-12 search_lan_select hidden-xs">
+                Language&nbsp;:&nbsp;
+                <a href="localeswitching.do?language=th&country=TH&nextpage=http%3A%2F%2Fmarketdata.set.or.th%2Fmkt%2Fstockquotation.do%3Fsymbol%3DABPIF%26ssoPageId%3D1" >ไทย</a>&nbsp;|&nbsp;
+                
+                  
+                    <a href="localeswitching.do?language=en&country=US&nextpage=http%3A%2F%2Fmarketdata.set.or.th%2Fmkt%2Fstockquotation.do%3Fsymbol%3DABPIF%26ssoPageId%3D1" >EN</a>&nbsp;
+                  
+                  
+                
+                <div class="sr-only"></div>
+                <div class="pull-right"><a href="#" onclick="window.print();" class="printer-th" title="พิมพ์หน้านี้"></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="nav-get-f visible-xs visible-sm clearfix">
+            <form role="search" action="" onsubmit="quoteActionGotoPage();return false;">
+              <div class="pull-left">
+                <input type="text" placeholder="Get Quote" value="Get Quote" id="txtSymbolXS">
+              </div>
+              <div class="pull-right">
+                <button type="button" class="btn-search" id="searchBtnXS" onclick="quoteActionGotoPage();"><i class="fa fa-caret-right"></i></button>
+                <button type="button" id="quoteBtn2" onclick="window.location='https://www.set.or.th/set/commonslookup.do?language=th&amp;country=TH';">
+                  <small>
+                    ชื่อย่อ
+                  </small>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start Nav header -->
+    <nav id="top-nav" class="navbar border-bottom-yellow-4" role="navigation">
+      <div class="container">
+        <div class="row background-nav-tablet ">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed navbar-toggle-show" data-toggle="collapse" data-target="#nav-header">
+              <div class="icon-container">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar icon-bar-menu"></span>
+                <span class="icon-bar icon-bar-menu"></span>
+                <span class="icon-bar icon-bar-menu"></span>
+              </div>
+              <span class="icon-text">MENU</span>
+            </button>
+            <button type="button" class="btn btn-link btn-toggle-search visible-xs" data-toggle="collapse" data-target="#nav-form-search">
+              <i class="fa fa-search"></i>
+            </button>
+            <a class="navbar-brand" href="https://www.set.or.th/th/index.html"></a>
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse padding-right-0" id="nav-header">
+            
+              
+              <ul class="nav navbar-nav">
+	<li class="nav1 dropdown dropdown-nav"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="https://www.set.or.th/th/about/index.html"><span class="visible-xs visible-sm">เกี่ยวกับตลท.</span></a>
+	<ul class="dropdown-menu dropdown-nav-ul">
+		<li><a href="https://www.set.or.th/th/about/vision/vision_p1.html">พันธกิจและวิสัยทัศน์</a></li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/about/overview/history_p1.html">ภาพรวม ตลท.</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/about/overview/history_p1.html">ประวัติและบทบาท</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/board_p1.html">คณะกรรมการ</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/organization_p1.html">คณะผู้บริหาร/โครงสร้าง</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/setlogo_p1.html">ตราสัญลักษณ์ ตลท.</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/setgroup_p1.html">กลุ่มตลาดหลักทรัพย์</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/share_p1.html">โครงสร้างการถือหุ้น</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/setcg_p1.html">การกำกับดูแลกิจการที่ดี</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/whistleblowing_p1.html">การแจ้งเบาะแส</a></li>
+			<li><a href="http://www.tfex.co.th/th/about/glance.html" target="_blank">เกี่ยวกับตลาดสัญญาซื้อขายล่วงหน้า</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/about/annual/annual_p1.html">รายงานผลการดำเนินงาน</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/about/annual/annual_p1.html">รายงานประจำปี</a></li>
+			<li><a href="https://www.set.or.th/th/about/annual/sd_report_p1.html">รายงานความยั่งยืน</a></li>
+			<li><a href="https://www.set.or.th/th/about/annual/financial_statement_p1.html">งบการเงินประจำปีและ MD&amp;A</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/set/holiday.do?language=th&amp;country=TH">วันหยุดตลาดหลั��ทรัพย์</a></li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://erecruit.set.or.th/erecruit/form/" target="_blank">ร่วมงานกับเรา</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://erecruit.set.or.th/erecruit/form/" target="_blank">สมัครงาน</a></li>
+			<li><a href="https://www.set.or.th/th/about/jobs/internship_p1.html">การฝึกงาน</a></li>
+			<li><a href="https://www.set.or.th/th/about/jobs/scholarship_p1.html">ทุนการศึกษา</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/about/map/map_p1.html">แผนที่ตลาดหลักทรัพย์</a></li>
+		<li><a href="https://www.set.or.th/th/about/newsletter/newsletter_p1.html">SET Newsletter</a></li>
+		<li><a href="https://www.set.or.th/set/setInfographic.do?language=th&country=TH"> SET Infographic</a></li>
+		<li><a href="https://www.set.or.th/th/about/sse/guideline_p1.html">การพัฒนาตลท.เพื่อความยั่งยืน</a></li>
+	</ul>
+	</li>
+	<li class="nav2 dropdown dropdown-nav"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="https://www.set.or.th/th/regulations/index.html"><span class="visible-xs visible-sm">กฎเกณฑ์/การกำกับ</span></a>
+	<ul class="dropdown-menu dropdown-nav-ul">
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/regulations/supervision/listed_p1.html">หลักเกณฑ์และการกำกับ</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/regulations/supervision/listed_p1.html">การกำกับบริษัทจดทะเบียน</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/supervision/surveillance_p1.html">การกำกับการซื้อขาย</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/supervision/member_p1.html">การกำกับบริษัทสมาชิก </a></li>
+			<li><a href="https://www.set.or.th/th/regulations/supervision/enforcement_p1.html">วินัยและคดี</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/supervision/market_policy_p1.html">นโยบายกำกับตลาด</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/rulebook/#/regulation">กฎเกณฑ์</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/rulebook/#/regulation" target="_blank">กฎเกณฑ์ (Rulebooks)</a></li>
+            <li><a href="https://www.set.or.th/rulebook/#/circular" target="_blank">หนังสือเวียน</a></li>
+			<li><a href="https://www.set.or.th/rulebook/#/form" target="_blank">แบบฟอร์ม</a></li>
+            <li><a href="https://www.set.or.th/rulebook/#/advancedSearch" target="_blank">Advanced Search</a></li>
+            <!--<li><a href="https://www.set.or.th/th/regulations/rule_amendments/rule_amendments_p1.html">กฎเกณฑ์ใหม่</a></li>-->
+            <li><a href="https://www.set.or.th/th/regulations/simplified_regulations/simplified_regulations_p1.html">Simplified Regulations</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/disclosure_checklist/download_p1.html">Checklist การเปิดเผยสารสนเทศ</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/smart_disclosure_program/elearning.html">โครงการ Smart Disclosure Program</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/regulations/enforcement/enforcement_p1.html">การบังคับใช้</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/regulations/enforcement/enforcement_p1.html">กระบวนการพิจารณา</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/enforcement/disprocess_p1.html">กระบวนการพิจารณาความผิดทางวินัย</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/enforcement/aplprocess_p1.html">กระบวนการพิจารณาอุทธรณ์</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/enforcement/penalties_p1.html">การดำเนินการทางวินัย</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/regulations/tax/tax_p1.html">ภาษีตราสารทุน</a></li>
+		<!--<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/regulations/tax/tax_p1.html">ภาษี</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/regulations/tax/tax_p1.html">ตราสารทุน</a></li>
+			<li><a href="https://www.set.or.th/th/regulations/tax/tax_bond_p1.html">ตราสารหนี้</a></li>
+		</ul>
+		</li>-->
+		<li><a href="https://www.set.or.th/th/regulations/protection/protection_p1.html">การคุ้มครองผู้ลงทุน</a></li>
+		<li><a href="https://www.set.or.th/th/regulations/consult/market_consultation_p1.html">Market Consultation </a></li>
+		<li class="dropdown-submenu">
+                <a href="https://www.set.or.th/set/regulatorystatistics.do?language=th&country=TH" data-toggle="dropdown" aria-expanded="false">ค่าสถิติงานกำกับ</a>
+                <ul class="dropdown-menu popover-set navtop" role="menu">
+                    <li><a href="https://www.set.or.th/set/regulatorystatistics.do?language=th&country=TH">ค่าสถิติงานกำกับ</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/statistics/causes_statistics_p1.html">สาเหตุการขึ้นเครื่องหมาย SP ปี 2560 และปี 2561</a></li>
+                </ul>
+        </li>
+	</ul>
+	</li>
+	<li class="nav3 dropdown dropdown-nav"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="https://www.set.or.th/th/products/index.html"><span class="visible-xs visible-sm">สินค้า/บริการ</span></a>
+	<ul class="dropdown-menu dropdown-nav-ul">
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/products/index/setindex_p1.html">ดัชนี</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/products/index/setindex_p1.html">ดัชนีตลาดหลักทรัพย์</a></li>
+			<li><a href="https://www.set.or.th/th/products/index/maiindex_p1.html">ดัชนี mai</a></li>
+			<li><a href="https://www.set.or.th/th/products/index/ftse_set_p1.html">ดัชนี FTSE SET </a></li>
+			<li><a href="https://www.set.or.th/th/products/index/ftse_asean_p1.html">ดัชนี FTSE ASEAN</a></li>
+			<li><a href="https://www.set.or.th/th/products/index/tri_p1.html">ดัชนีผลตอบแทนรวม (TRI)</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/products/equities/equities_p1.html">ตราสารทุน</a></li>
+		<!--<li><a href="https://www.set.or.th/th/products/bonds/bonds_p1.html">ตราสารหนี้</a></li>-->
+		<li><a href="http://www.tfex.co.th/th/products/products.html" target="_blank">ตราสารอนุพันธ์</a></li>
+		<li><a href="https://www.set.or.th/set/etfstatistics.do?language=th&amp;country=TH">อีทีเอฟ (ETF)</a></li>
+		<li class="dropdown-submenu">
+                <a href="https://www.set.or.th/set/education/html.do?name=mutualfund&amp;showTitle=F" data-toggle="dropdown" aria-expanded="false">กองทุนรวม</a>
+                <ul class="dropdown-menu popover-set navtop" role="menu">
+                <li><a href="https://www.set.or.th/set/education/html.do?name=mutualfund&showTitle=F" target="_blank">Thai Mutual Fund</a></li>
+                    <li><a href="/th/products/fund/cg_fund.html">CG Fund</a></li>
+                </ul>
+            </li> 
+		<li><a href="https://www.set.or.th/site/products/dw?lang=th" target="_blank">ใบสำคัญแสดงสิทธิอนุพันธ์ (DW)</a></li>
+		<li class="dropdown-submenu">
+                <a href="/th/products/dr/dr_knowledge.html" data-toggle="dropdown" aria-expanded="false">ตราสารแสดงสิทธิการฝากหลักทรัพย์ต่างประเทศ (DR)</a>
+                <ul class="dropdown-menu popover-set navtop" role="menu">
+                    <li><a href="https://marketdata.set.or.th/mkt/stocklistbytype.do?type=X&market=A&language=th&country=TH">ราคา DR</a></li>
+                    <li><a href="https://www.set.or.th/set/drinformation.do?language=th&country=TH">ข้อมูล DR</a></li>
+                    <li><a href="https://www.set.or.th/th/products/dr/dr_issuer.html">ข้อมูลผู้ออก DR</a></li>
+					<li><a href="https://www.set.or.th/th/products/dr/dr_knowledge.html">ความรู้ผู้ลงทุน</a></li>
+					<li><a href="https://www.set.or.th/th/products/dr/dr_faq.html">ถาม-ตอบ</a></li>
+                </ul>
+            </li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/products/info/details_p1.html">บริการข้อมูลหลักทรัพย์</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/products/info/details_p1.html">ประเภทของข้อมูล</a></li>
+			<li><a href="https://www.set.or.th/app/online-data">SMART Marketplace</a></li>
+			<li><a href="https://www.set.or.th/site/products/info/subscription/form?lang=th">ติดต่อรับบริการ</a></li>
+			<li><a href="https://www.set.or.th/th/products/info/data_vendors_p1.html">รายชื่อผู้ขายข้อมูลรับอนุญาต</a></li>
+			<li><a href="https://www.set.or.th/th/products/info/policy_p1.html">นโยบายการใช้ข้อมูลตลาดหลักทรัพย์</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/products/listing2/listing_set_p1.html">บริการการเข้าจดทะเบียน</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/products/listing2/listing_set_p1.html">การเข้าจดทะเบียนตราสารทุน</a></li>
+			<!--<li><a href="https://www.set.or.th/th/products/listing/bond_listing_p1.html">การเข้าจดทะเบียนตราสารหนี้</a></li>-->
+			<li><a href="https://www.set.or.th/th/products/listing2/download_p1.html">แบบฟอร์ม แบบคำขอ และแบบรายงาน</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/products/institution/institution_p1.html">บริการสำหรับผู้ลงทุนสถาบัน</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/products/institution/institution_p1.html">วิธีการซื้อขายสำหรับผู้ลงทุนสถาบัน </a></li>
+			<li><a href="https://www.set.or.th/th/products/institution/dma.html">Direct Market Access (DMA)</a></li>
+			<li><a href="https://www.set.or.th/th/products/institution/algorithmic_trading.html">Algorithmic Trading</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/products/colocation/colocation_p1.html">บริการ Co-location</a></li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/products/trading/equity/trading_p1.html">วิธีการซื้อขาย</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/products/trading/equity/trading_p1.html">การซื้อขายตราสารทุน</a></li>
+			<!--<li><a href="https://www.set.or.th/th/products/trading/bond/bond_trading_p1.html">การซื้อขายตราสารหนี้</a></li>-->
+			<li><a href="http://www.tfex.co.th/th/education/files/2011-09-FiveSteps-Trading-Th.pdf" target="_blank">การซื้อขายตราสารอนุพันธ์</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/products/bsb/bsb_p1.html">บริการระบบปฏิบัติการสำหรับสมาชิก</a></li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/set/memberlist.do?language=th&amp;country=TH">บริษัทสมาชิก</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/set/memberlist.do?language=th&amp;country=TH">รายชื่อบริษัทสมาชิกตลาดหลักทรัพย์แห่งประเทศไทย</a></li>
+			<!--<li><a href="https://www.set.or.th/th/products/member/firsts/firsts_dealer_p1.html">รายชื่อผู้ค้าตราสารหนี้ในระบบ Firsts</a></li>-->
+			<li><a href="https://www.set.or.th/th/products/member/firsts/firsts_investor_p1.html">รายชื่อผู้ลงทุนสถาบันในระบบ Firsts</a></li>
+			<li><a href="http://www.tfex.co.th/th/member/list.html" target="_blank">รายชื่อบริษัทสมาชิกตลาดสัญญาซื้อขายล่วงหน้า</a></li>
+			<li><a href="https://www.set.or.th/th/products/member/member_stock.html">การรับสมาชิก</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/products/isv/isv_p1.html">บริษัทผู้พัฒนาระบบ (ISV)</a></li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/setapp.html">SET App</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/setapp.html">ดาวน์โหลด</a></li>
+			<li><a href="https://www.set.or.th/th/setapp_noti.html">การตั้งค่า Notifications</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/socialmedia/all.html">SET Social Media</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/socialmedia/all.html">ทั้งหมด</a></li>
+			<li><a href="https://www.facebook.com/set.or.th" target="_blank">Facebook</a></li>
+			<li><a href="https://www.messenger.com/t/set.or.th" target="_blank">Messenger</a></li>
+            <li><a href="https://www.set.or.th/th/socialmedia/LINE.html">LINE</a></li>
+			<li><a href="https://www.youtube.com/setthailand" target="_blank">Youtube</a></li>
+			<li><a href="https://www.instagram.com/set_thailand/" target="_blank">Instagram</a></li>
+			<li><a href="https://twitter.com/set_thailand" target="_blank">Twitter</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/products/financial/financial_instruments.html">เครื่องมือทางการเงิน</a></li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/th/products/resource/resource_p1.html">แหล่งศึกษา���้อมูล</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/th/products/resource/resource_p1.html">แหล่งความรู้การลงทุน</a></li>
+			<li><a href="https://www.set.or.th/setresearch/setresearch.html" target="_blank">SET Research</a></li>
+			<li><a href="https://www.set.or.th/th/market/MnA.html">การควบรวมกิจการ</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu">
+                <a href="https://www.set.or.th/th/setresearch/setresearch_p1.html" data-toggle="dropdown" aria-expanded="false">SET Research</a>
+                <ul class="dropdown-menu popover-set navtop" role="menu">
+					<li><a href="https://www.set.or.th/th/setresearch/setresearch_p1.html">SET Research</a></li>
+                    <li><a href="https://www.set.or.th/th/setresearch/database/overview.html">Database</a></li>
+					<li><a href="https://www.set.or.th/th/setresearch/information/press_release.html">Information</a></li>
+					<li><a href="https://www.set.or.th/th/setresearch/research/research_paper.html">Research</a></li>
+                    <li><a href="https://www.set.or.th/th/setresearch/events/forum.html">Events</a></li>
+					<li><a href="https://www.set.or.th/ICMC/index.html" target="_blank">ICMC</a></li>
+					<li><a href="https://www.set.or.th/th/setresearch/sentiment_indices/sentiment_indices.html">Sentiment Indices</a></li>
+					<li><a href="https://www.set.or.th/th/setresearch/grant/research_grant.html">Research Grant</a></li>
+                </ul>
+            </li>
+	</ul>
+	</li>
+	<li class="nav4 dropdown dropdown-nav"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="https://marketdata.set.or.th/mkt/sectorialindices.do?language=th&amp;country=TH"><span class="visible-xs visible-sm">ข้อมูลการซื้อขาย</span></a>
+	<ul class="dropdown-menu dropdown-nav-ul">
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://marketdata.set.or.th/mkt/sectorialindices.do?language=th&amp;country=TH">ดัชนี</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://marketdata.set.or.th/mkt/sectorialindices.do?language=th&amp;country=TH">ราคาดัชนีตลาดหลักทรัพย์</a></li>
+			<li><a href="https://marketdata.set.or.th/mkt/ftsesetindex.do?language=th&amp;country=TH">ราคาดัชนี FTSE SET Series</a></li>
+			<li><a href="https://www.set.or.th/th/market/setindexchart.html">กราฟราคาดัชนีย้อนหลัง</a></li>
+			<li><a href="https://www.set.or.th/th/market/ftse_asean.html">ราคาดัชนี FTSE ASEAN</a></li>
+			<li><a href="https://www.set.or.th/th/market/constituents.html">รายชื่อหลักทรัพย์ที่ใช้คำนวณดัชนี</a></li>
+			<li><a href="https://www.set.or.th/th/market/tri.html">ราคาดัชนีผลตอบแทนรวม (TRI)</a></li>
+			<li><a href="https://www.set.or.th/th/market/market_statistics.html">สถิติดัชนีตลาดหลักทรัพย์</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://marketdata.set.or.th/mkt/marketsummary.do?language=th&amp;country=TH">ตราสารทุน</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://marketdata.set.or.th/mkt/marketsummary.do?language=th&amp;country=TH">สรุปภาพรวมตลาด</a></li>
+			<li><a href="https://marketdata.set.or.th/mkt/sectorquotation.do?sector=SET50&amp;language=th&amp;country=TH">ราคาหลักทรัพย์</a></li>
+			<li><a href="https://marketdata.set.or.th/mkt/topten.do?language=th&amp;country=TH">สิบอันดับหลักทรัพย์</a></li>
+			<li><a href="https://www.set.or.th/th/market/foreign_currency_indicative_stock_quote.html">Foreign Currency Indicative Stock Quote</a></li>
+			<li><a href="https://www.set.or.th/set/nvdroverview.do?language=th&amp;country=TH">ข้อมูล NVDR</a></li>
+			<li><a href="https://www.set.or.th/set/shortsales.do?language=th&amp;country=TH">ข้อมูลธุรกรรมขายชอร์ต</a></li>
+			<li><a href="https://marketdata.set.or.th/mkt/fivedays.do?language=th&amp;country=TH">สรุปมูลค่าการซื้อขาย 5 วันทำการล่าสุด</a></li>
+			<li><a href="https://marketdata.set.or.th/mkt/investortype.do?language=th&amp;country=TH">สรุปมูลค่าการซื้อขายตามกลุ่มนักลงทุน</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://marketdata.set.or.th/tfx/tfexoverview.do?locale=th_TH">ตราสารอนุพันธ์</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://marketdata.set.or.th/tfx/tfexoverview.do?locale=th_TH">สรุปภาพรวมตลาด</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/tfexintradayreport.do?locale=th_TH">ราคาอนุพันธ์</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/tfexblocktradereport.do?locale=th_TH">ข้อมูลการซื้อขายรายใหญ่ (Block Trade)</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/tfexinvestortypetrading.do?locale=th_TH">สรุปปริมาณซื้อขายตามกลุ่มนักลงทุน</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/tfexhistoricalreport.do?locale=th_TH">ข้อมูลการซื้อขายย้อนหลัง</a></li>
+			<li><a href="http://www.tfex.co.th/th/marketdata/sf_blocktrade_report.html" target="_blank">สถิติการซื้อขายรายใหญ่ (Stock Futures Block Trade Report)</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/tfexbrokerrank.do?locale=th_TH">อันดับการซื้อขายของบริษัทสมาชิก </a></li>
+			<li><a href="http://www.tfex.co.th/tfex/referenceData.html?locale=th_TH" target="_blank">ข้อมูลอ้างอิง</a></li>
+			<li><a href="http://www.tfex.co.th/tfex/downloadSeriesProfile.html" target="_blank">ดาวน์โหลด Series Profile</a></li>
+		</ul>
+		</li>
+		<!--<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://marketdata.set.or.th/tfx/bexoverview.do?locale=th_TH">ตราสารหนี้</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://marketdata.set.or.th/tfx/bexoverview.do?locale=th_TH">สรุปภาพรวมตลาด</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bexgovbondyield.do?locale=th_TH">อัตราผลตอบแทนพันธบัตรรัฐบาลระหว่างวัน</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bexquotationbyissuer.do?locale=th_TH">ราคาตราสารหนี้ (AOM)</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bexdealerquote.do?locale=th_TH">ราคาเสนอซื้อ-ขาย ของ Dealer</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bexhistoricaldata.do?locale=th_TH">ข้อมูลการซื้อขายย้อนหลัง </a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bexinterestrate.do?locale=th_TH">อัตราอ้างอิง</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bexcreditrating.do?locale=th_TH">อันดับเครดิต</a></li>
+			<li><a href="https://www.settrade.com/C03_05_bond_Calculator.jsp" target="_blank">เครื่องคำนวณตราสารหนี้</a></li>
+		</ul>
+		</li>-->
+		<li><a href="https://www.set.or.th/th/market/market_statistics.html">สถิติสำคัญของตลาดหลักทรัพย์</a></li>
+	</ul>
+	</li>
+	<li class="nav5 dropdown dropdown-nav"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="https://www.set.or.th/set/searchtodaynews.do?source=company&symbol=&securityType=S&newsGroupId=&headline=&submit=%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2&language=th&country=TH"><span class="visible-xs visible-sm">ข้อมูลบริษัท/หลักทรัพย์</span></a>
+	<ul class="dropdown-menu dropdown-nav-ul">
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/set/searchtodaynews.do?source=company&symbol=&securityType=S&newsGroupId=&headline=&submit=%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2&language=th&country=TH">ข่าวบริษัท/หลักทรัพย์</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/set/searchtodaynews.do?source=company&symbol=&securityType=S&newsGroupId=&headline=&submit=%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2&language=th&country=TH">ข่าววันนี้ </a></li>
+			<li><a href="https://www.set.or.th/set/newslistinput.do?language=th&amp;country=TH&amp;headline=">ข่าวย้อนหลัง </a></li>
+			<li><a href="https://www.set.or.th/set/marketalertnews.do?language=th&amp;country=TH">Market Alerts </a></li>
+			<li><a href="https://www.set.or.th/set/cashbalancesecurity.do?language=th&amp;country=TH">หลักทรัพย์ที่เข้าข่ายมาตรการกำกับการซื้อขาย</a></li>			
+			<li><a href="https://www.set.or.th/set/cautionsecurity.do?language=th&country=TH">หลักทรัพย์ภายใต้เครื่องหมาย C (Caution)</a></li>
+		    <li><a href="https://www.set.or.th/set/cashbalancesummary.do?language=th&country=TH">สรุปหลักทรัพย์ตามมาตรการกำกับการซื้อขาย / เครื่องหมาย C / ซื้อขายชั่วคราว</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/set/commonslookup.do?language=th&amp;country=TH">ตราสารทุน</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/set/commonslookup.do?language=th&amp;country=TH">ข้อมูลรายบริษัท / หลักทรัพย์</a></li>
+			<li><a href="https://www.set.or.th/set/xcalendar.do?language=th&amp;country=TH">ปฏิทินหลักทรัพย์ </a></li>
+			<li><a href="https://www.set.or.th/th/company/ipo/upcoming_ipo_set.html">หลักทรัพย์ IPO</a></li>
+			<li><a href="https://www.settrade.com/settrade/ipo/ipo-performance" target="_blank">IPO Performance</a></li>
+			<li><a href="https://www.set.or.th/th/company/companylist.html">รายชื่อบริษัท / หลักทรัพย์</a></li>
+			<li><a href="https://www.set.or.th/tsd/th/download/isin.html">เลขรหัสหลักทรัพย์สากล</a></li>
+			<li><a href="https://www.set.or.th/set/concession.do?language=th&country=TH">รายชื่อบริษัทที่รายงานว่าได้รับสัมปทานจากรัฐ</a></li>
+		</ul>
+		</li>
+		<!--<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://marketdata.set.or.th/tfx/bondlookup.do?locale=th_TH">ตราสารหนี้</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://marketdata.set.or.th/tfx/bondlookup.do?locale=th_TH">ข้อมูลรายตราสารหนี้</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bondcalendar.do?locale=th_TH">ปฏิทินตราสารหนี้</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bondoutstanding.do?locale=th_TH">สรุปมูลค่าคงค้าง</a></li>
+			<li><a href="https://marketdata.set.or.th/tfx/bondlisting.do?locale=th_TH">ตราสารหนี้จดทะเบียนใหม่</a></li>
+		</ul>
+		</li>-->
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/streaming">Opportunity Day &amp; Company Highlights</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/streaming">Opportunity Day</a></li>
+			<li><a href="https://www.set.or.th/set/companysummary.do?language=th&amp;country=TH">สรุปข้อสนเทศบริษัทจดทะเบียน</a></li>
+			<li><a href="https://www.set.or.th/th/company/document/document_p1.html">Stock Focus</a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/streaming/cupdate" target="_blank">C-Update</a></li>
+	</ul>
+	</li>
+	<li class="nav6 dropdown dropdown-nav"><a class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown" href="https://www.set.or.th/mai/th/index.html"><span class="visible-xs visible-sm">หน่วยงาน</span></a>
+	<ul class="dropdown-menu dropdown-nav-ul">
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/mai/th/index.html">ตลาด mai</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/mai/th/about/vision.html">เกี่ยวกับ mai</a></li>
+			<li><a href="https://portal.set.or.th/mai/notification.do?locale=th_TH">กฎเกณฑ์/กำกับ</a></li>
+			<li><a href="https://portal.set.or.th/mai/todaynews.do?locale=th_TH">ข่าว</a></li>
+			<li><a href="https://portal.set.or.th/mai/stocklistbytype.do?locale=th_TH">ข้อมูลการซื้อขาย</a></li>
+			<li><a href="https://portal.set.or.th/mai/stockslookup.do?locale=th_TH">ข้อมูลบริษัทจดทะเบียน</a></li>
+			<li><a href="https://www.set.or.th/th/products/listing2/listing_mai_p1.html">การเข้าจดทะเบียน/IPO</a></li>
+			<li><a href="https://portal.set.or.th/mai/activitycontent.do?locale=th_TH&amp;categoryId=2">กิจกรรม</a></li>
+			<li><a href="https://www.set.or.th/mai/th/mai_fund/mai_fund_p1.html">กองทุนที่ลงทุนใน mai</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/tch/th/index.html">สำนักหักบัญชี TCH</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/tch/th/about/about.html">เกี่ยวกับ TCH</a></li>
+			<li><a href="https://www.set.or.th/tch/th/equity/members.html">ตราสารทุนและตราสารหนี้</a></li>
+			<li><a href="https://www.set.or.th/tch/th/derivatives/deriv_members.html">สัญญาซื้อขายล่วงหน้า</a></li>
+			<li><a href="https://www.set.or.th/tch/th/equity/equity_announcement.html">กฎเกณฑ์/กำกับ </a></li>
+			<li><a href="https://www.set.or.th/tch/th/derivatives/statistic.html">เอกสารเผยแพร่ </a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="https://www.set.or.th/tsd/th/index.html">ศูนย์รับฝากหลักทรัพย์</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="https://www.set.or.th/tsd/th/about/overview.html">เกี่ยวกับ TSD</a></li>
+			<li><a href="https://www.set.or.th/tsd/th/service/edividend.html">นักลงทุน</a></li>
+			<li><a href="https://www.set.or.th/tsd/th/service/service2.html">บริษัทสมาชิกผู้ฝากหลักทรัพย์</a></li>
+			<li><a href="https://www.set.or.th/tsd/th/service/service1.html">บริษัทจดทะเบียน</a></li>
+			<li><a href="https://www.set.or.th/rulebook/#/regulation/tree/30">กฎเกณฑ์/กำกับ</a></li>
+			<li><a href="https://www.set.or.th/tsd/th/download/statistic.html">ข้อมูลสถิติ</a></li>
+			<li><a href="https://www.set.or.th/tsd/th/download/isin.html">ข้อมูล ISIN และ CFI</a></li>
+		</ul>
+		</li>
+		<li class="dropdown-submenu"><a aria-expanded="false" data-toggle="dropdown" href="http://www.settrade.com" target="_blank">Settrade</a>
+		<ul class="dropdown-menu popover-set navtop" role="menu">
+			<li><a href="http://www.settrade.com/C13_MarketSummary.jsp?detail=SET50" target="_blank">ข้อมูลการซื้อขาย</a></li>
+			<li><a href="http://www.settrade.com/C00_Redirect.jsp?txtPage=products/th/products-services.html" target="_blank">สินค้า/บริการ </a></li>
+			<li><a href="http://www.settrade.com/C08_News_Index.jsp" target="_blank">ข่าว/บทวิเคราะห์ </a></li>
+			<li><a href="http://www.settrade.com/C00_BeginnerRedirect.jsp?txtPage=beginnerZone/th/main.html" target="_blank">มือใหม่ลงทุน </a></li>
+		</ul>
+		</li>
+		<li><a href="https://www.set.or.th/th/finnet/about_p1.html">FinNet</a></li>
+		<li class="dropdown-submenu">
+                <a href="https://www.set.or.th/th/dap/about_p1.html" data-toggle="dropdown" aria-expanded="false">DAP</a>
+                <ul class="dropdown-menu popover-set navtop" role="menu">
+                    <li><a href="https://www.set.or.th/th/dap/about_p1.html">เกี่ยวกับ DAP</a></li>
+					<li><a href="https://www.set.or.th/th/dap/fundconnext_p1.html">FundConnext</a></li>
+                </ul>
+        </li>
+	</ul>
+	</li>
+	<li class="nav7 dropdown dropdown-nav" >
+        <a href="https://www.setinvestnow.com" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"><span class="visible-xs visible-sm">ความรู้การลงทุน</span></a>
+        <ul class="dropdown-menu dropdown-nav-ul">
+            <li><a href="https://www.setinvestnow.com" target="_blank">มุมผู้ลงทุน</a></li>
+			<li><a href="https://www.set.or.th/happymoney">Happy Money</a></li>
+            <li><a href="http://www.maruey.com" target="_blank">ห้องสมุดมารวย</a></li>
+            <li><a href="http://investory.set.or.th" target="_blank">INVESTORY</a></li>
+            <li><a href="https://www.set.or.th/setbook/index.html">SET Book</a></li>
+            <li><a href="https://www.set.or.th/professional/index.html">มุมผู้ประกอบวิชาชีพ</a></li>
+			<li><a href="https://www.set.or.th/enterprise/home.html">ห้องเรียนผู้ประกอบการ</a></li>
+        </ul>
+    </li>
+	<li class="nav8 last dropdown dropdown-nav" >
+        <a href="https://www.set.or.th/set/newsrelease.do?language=th&country=TH" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"><span class="visible-xs visible-sm">ข่าว/กิจกรรม</span></a>
+        <ul class="dropdown-menu dropdown-nav-ul">
+            <li><a href="https://www.set.or.th/set/newsrelease.do?language=th&country=TH">News Release</a></li>
+			<li><a href="http://portal.set.or.th/tsd/eventcalendar.html?locale=th_TH">ปฏิทินกิจกรรม</a></li>
+			<li><a href="https://www.set.or.th/set/activityList.do?language=th&country=TH&categoryId=2">ภาพกิจกรรมบจ./ผู้ออกหลักทรัพย์</a></li>
+            <li class="dropdown-submenu">
+                <a href="https://www.set.or.th/set/iposhowcase.do?market=A&language=th&country=TH" data-toggle="dropdown" aria-expanded="false">กิจกรรมด้านผู้ออกหลักทรัพย์ </a>
+                <ul class="dropdown-menu popover-set navtop" role="menu">
+                    <li><a href="https://www.set.or.th/set/iposhowcase.do?market=A&language=th&country=TH">เปิดตัวหุ้นใหม่ IPO</a></li>
+                    <li><a href="https://www.set.or.th/setawards">SET Awards</a></li>
+                </ul>
+            </li>
+			<li class="dropdown-submenu">
+                <a href="https://www.set.or.th/th/news/capital_market_innovation_awards/competition_p1.html" data-toggle="dropdown" aria-expanded="false">Capital Market Innovation Awards </a>
+                <ul class="dropdown-menu popover-set navtop" role="menu">
+                    <li><a href="https://www.set.or.th/th/news/capital_market_innovation_awards/competition_p1.html">เกี่ยวกับโครงการ</a></li>
+                    <li><a href="https://www.set.or.th/th/news/capital_market_innovation_awards/20teams_p1.html">ประกาศผลงานเข้ารอบกลั่นกรอง</a></li>
+                </ul>
+            </li>
+			<li><a href="https://www.set.or.th/th/news/cm_research_innovation/competition_p1.html">CM Research Innovation</a></li>
+			<li><a href="https://www.set.or.th/thailandfocus/" target="_blank">Thailand Focus</a></li>
+            <li class="dropdown-submenu">
+				<a href="https://www.set.or.th/th/news/csr/csr_p1.html" data-toggle="dropdown" aria-expanded="false">ความรับผิดชอบต่อสังคม</a>
+				<ul class="dropdown-menu popover-set navtop" role="menu">
+                    <li><a href="https://www.set.or.th/th/news/csr/social_recognition_project_p1.html">SET เชิดชูผู้ทำความดีเพื่อสังคม </a></li>
+                </ul>
+			</li>
+        </ul>
+    </li>
+</ul>
+
+            
+            <form class="navbar-form navbar-right nav-set-form" role="search" onsubmit="quoteActionGotoPage();return false;">
+              <div class="nav-quote hidden-xs hidden-sm">
+                <input type="text" placeholder="Get Quote" value="Get Quote" id="txtSymbolLG">
+                <button type="button" class="btn-search" id="searchBtnLG" onclick=" quoteActionGotoPage();"><i class="fa fa-search"></i></button>
+                <button type="button" id="quoteBtn" onclick="window.location='https://www.set.or.th/set/commonslookup.do?language=th&amp;country=TH';">
+                  <small>หาชื่อย่อ</small>
+                </button>
+              </div>
+            </form>
+          </div>
+          <!-- end navbar-collapse -->
+        </div>
+      </div>
+    </nav>
+    <!-- End Nav header -->
+
+    <!-- Start Forgot Password -->
+    <div class="calendar-detail modal fade" id="frgtPasswordModal">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content" id="frgtPassword">
+          &nbsp;
+        </div>
+      </div>
+    </div>
+    <!-- End Forgot Password -->
+
+    
+    <div class="container row-text-login">
+      
+        
+        
+          <div class="row ">
+            <div>
+              <div id="breadcrumbs" class="text-slide"></div>
+              <div id="login-box" class="login-header navbar-collapse collapse">
+                <form id="loginForm" name="loginForm" method="post" action="https://member.set.or.th/set/signinpage.do">
+                  <div id="loginBox" class="login-box-container">
+                    <h4 class="visible-xs"></h4>
+                    <input name="txtLogin" type="text" class="input-text-login" placeholder="E-mail or Username" value="E-mail or Username">
+                    <input name="txtPassword" type="password" class="input-text-login" placeholder="Password" value="Password">
+                    <input name="txtRtrPage" type="hidden" value="memberFirstPage">
+                    <input name="language" type="hidden" value="th" />
+                    <input name="country" type="hidden" value="TH" />
+                    <input type="submit" class="btn-set btn-set-gray" value="ลงชื่อเข้าใช้">
+                    <div class="login-register">
+                      
+                      <a href="https://member.set.or.th/set-member/#/registration?system=SET&amp;language=th" style="margin-right:4px;">สมัครสมาชิก</a>
+                      
+                      <a href="https://member.set.or.th/set-member/#/forgot-password?system=SET&amp;language=th" target="_blank">ลืมรหัสผ่าน</a>
+                      <div class="checkbox" style="margin-top: -1px;">
+                        <label><input name="txtKeepMe" type="checkbox" value="1" checked="checked" style="margin-top: 3px">ให้ฉันอยู่ในระบบ</label>
+                      </div>
+                    </div>
+                    <div class="facebook-login-register"><a href="javascript:facebookLogin();"><img src="/images/social_media/social-facebook-small-icon.png" class="facebook-login-img"></a></div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        
+      
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+
+  <div class="printonly"><img src="/images/logo_en.jpg"></div>
+
+<!-- End header -->
+
+<div class="container">
+    <div class="row sidebar-body-content">
+        <!-- Start Sidebar -->
+        <div id="sidebar-wrapper" class="webonly col-xs-12 col-md-2 sidebar-bg">
+            <div id="sidebar">
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true"></div>
+                <div class="tap-sign inward visible-xs visible-sm"><a href="#" class="btn-tap-sidebar"></a></div>
+            </div>
+        </div>
+        <!-- End Sidebar -->
+
+        <!-- Start Body -->
+        <div id="body-content" class="col-xs-12 col-md-10">
+            
+                
+                
+                    <div class="top-banner-nonweb" style="display: none;">
+<div class="visible-md visible-sm">
+<a href="https://setga.page.link/KabU5E4h39ihy9dh7" target="_blank"><img src="https://www.set.or.th/commons/img/banner/650x80_LINE_realtimequote.jpg"></a>
+</div>
+<div class="visible-xs">
+<a href="https://setga.page.link/KabU5E4h39ihy9dh7" target="_blank"><img src="https://www.set.or.th/commons/img/banner/350x43_LINE_realtimequote.jpg"></a>
+</div>
+</div>
+                
+            
+            <div class="row">
+                <div id="maincontent" class="col-lg-12">
+                    <div class="row">
+                        <h1 class="page-header underline-orange">ข้อมูลรายบริษัท/หลักทรัพย์</h1>
+                        <p class="content">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <br/>
+  <div class="row">
+    <div class="col-xs-12 col-md-12 col-lg-8">
+      <h3 style="text-align:left;">ABPIF : กองทุนรวมโครงสร้างพื้นฐานโรงไฟฟ้า อมตะ บี.กริม เพาเวอร์ </h3>
+    </div>
+    <div class="col-xs-12 col-md-12 col-lg-4">
+      <div><a href="https://www.set.or.th/set/commonslookup.do" class="btn-set-square btn-set-default">ค้นหาบริษัท / หลักทรัพย์จดทะเบียน</a></div>
+      
+      <div style="margin-top:8px;"><a href="https://www.set.or.th/set/factsheet.do?symbol=ABPIF&amp;ssoPageId=3&amp;language=th&amp;country=TH" class="btn-set-square btn-set-default" target="_blank">สรุปข้อสนเทศบริษัทจดทะเบียน</a></div>
+    </div>
+  </div>
+  <br/>
+  <div class="row">
+    <div style="margin-left:3px;">
+      <ul class="nav nav-tabs set-nav-tabs">
+        
+          
+          
+            <li class="first" role="tab"><a href="https://www.set.or.th/set/companyprofile.do?symbol=ABPIF&amp;ssoPageId=4&amp;language=th&amp;country=TH">ข้อมูลหลักทรัพย์</a></li>
+          
+        
+        
+          
+          
+            <li role="tab"><a href="https://www.set.or.th/set/companyhighlight.do?symbol=ABPIF&amp;ssoPageId=5&amp;language=th&amp;country=TH">งบการเงิน/ผลประกอบการ</a></li>
+          
+        
+        
+          
+          
+            <li role="tab"><a href="https://www.set.or.th/set/companyholder.do?symbol=ABPIF&amp;ssoPageId=6&amp;language=th&amp;country=TH">ผู้ถือหุ้นรายใหญ่</a></li>
+          
+        
+        
+          
+          
+            <li role="tab"><a href="https://www.set.or.th/set/companyrights.do?symbol=ABPIF&amp;ssoPageId=7&amp;language=th&amp;country=TH">ข้อมูลสิทธิประโยชน์</a></li>
+          
+        
+        
+          
+          
+            <li role="tab"><a href="https://www.set.or.th/set/companynews.do?symbol=ABPIF&amp;ssoPageId=8&amp;language=th&amp;country=TH">ข่าว</a></li>
+          
+        
+        
+          
+            <li class="active"><a href="#" class="nav-btn">ราคาวันนี้</a></li>
+          
+          
+        
+        
+          
+          
+            <li role="tab"><a href="https://www.set.or.th/set/historicaltrading.do?symbol=ABPIF&amp;ssoPageId=2&amp;language=th&amp;country=TH">ราคาย้อนหลัง</a></li>
+          
+        
+      </ul>
+    </div>
+  </div>
+
+  
+    
+      
+      
+      
+      
+      
+      
+      
+      
+    
+    <script language="javascript">
+      function changeSymbol() {
+        var newSymbol = document.theForm.symbol.value;
+        document.theForm.submit();
+      }
+    </script>
+
+    <form class="form-horizontal" name="theForm" action="/mkt/stockquotation.do">
+      <div class="form-group">
+        <strong class="col-xs-6 col-md-6 col-lg-3 col-lg-offset-6 padding-0 control-label">เลือกหลักทรัพย์</strong>
+        <div class="col-xs-6 col-md-6 col-lg-3">
+          <select name="symbol" onchange="javascript:changeSymbol();" class="form-control">
+            
+              <option value="ABPIF"
+                selected>ABPIF
+              </option>
+            
+              <option value="ABPIF-F"
+                >ABPIF-F
+              </option>
+            
+          </select>
+          <input type="hidden" name="language" value="th">
+          <input type="hidden" name="country" value="TH">
+        </div>
+      </div>
+    </form>
+  
+
+
+  <div class="row">
+    <div class="col-xs-12 col-md-12 col-lg-6 float-right">
+      <div class="remark-content" style="text-align: right; margin-top:-1px;">
+        * ข้อมูลเพื่อการศึกษาหรือใช้งานส่วนบุคคลเท่านั้น ไม่ใช่เพื่อประกอบการซื้อขายหลักทรัพย์
+      </div>
+      
+        
+        
+          
+          
+        
+        
+      
+      <table class="table table-hover table-set col-3-center table-set-border-yellow">
+        <thead>
+        <tr>
+          <td colspan="2" align="right" style="border:0px;">
+            * ข้อมูลล่าสุด 13 เม.ย. 2564 03:19:57
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="right" style="border:0px;">
+            สถานะตลาด : Closed
+          </td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td style="background-color: #D1DDF6; width: 60%">เครื่องหมาย</td>
+          <td style="background-color: #D1DDF6; width: 40%"></td>
+        </tr>
+        <tr>
+          <td>ล่าสุด</td>
+          <td class="set-color-red" style="font-size: 20px; font-weight: bold;">
+            <i class="fa fa-caret-down fa-lg set-color-red"></i>2.56
+          </td>
+        </tr>
+        <tr>
+          <td>เปลี่ยนแปลง</td>
+          <td class="set-color-red">
+            <font style="color: red;">-0.02</font>
+          </td>
+        </tr>
+        <tr>
+          <td>%เปลี่ยนแปลง</td>
+          <td class="set-color-red">
+            <font style="color: red;">-0.78</font>
+          </td>
+        </tr>
+        <tr>
+          <td>วันก่อนหน้า</td>
+          <td>2.58</td>
+        </tr>
+        <tr>
+          <td>เปิด</td>
+          <td>2.58</td>
+        </tr>
+        <tr>
+          <td>สูงสุด</td>
+          <td>2.58</td>
+        </tr>
+        <tr>
+          <td>ต่ำสุด</td>
+          <td>2.56</td>
+        </tr>
+        <tr>
+          <td>ปริมาณ&nbsp;(หุ้น)</td>
+          <td>177,259</td>
+        </tr>
+        <tr>
+          <td>มูลค่า&nbsp;('000 บาท)</td>
+          <td>454.15</td>
+        </tr>
+        <tr>
+          <td>ราคาเฉลี่ย **</td>
+          <td>2.56</td>
+        </tr>
+        </tbody>
+      </table>
+      <div class="remark-content" style="margin:0 0 10px 0; padding-left: 8px;">
+        ** เฉพาะการซื้อขายแบบ Auto-matching เท่านั้น
+      </div>
+      
+      <table class="table table-hover table-set col-3-center table-set-border-yellow">
+        <tbody>
+        <tr>
+          <td style="width: 60%">ราคาพาร์
+            
+              (บาท)
+              
+            
+          </td>
+          <td style="width: 40%">3.124</td>
+        </tr>
+        <tr>
+          <td>ราคา Ceiling</td>
+          <td>3.34</td>
+        </tr>
+        <tr>
+          <td>ราคา Floor</td>
+          <td>1.81</td>
+        </tr>
+        </tbody>
+      </table>
+      
+        
+        
+      
+    </div>
+
+    <div class="col-xs-12 col-md-12 col-lg-6 float-left">
+      
+
+
+<link type="text/css" rel="stylesheet" href="/mkt/styles/setsmart-chart.css"/>
+<script type="text/javascript" src="/mkt/javascripts/amcharts/amcharts.js"></script>
+<script type="text/javascript" src="/mkt/javascripts/amcharts/serial.js"></script>
+<script type="text/javascript" src="/mkt/javascripts/amcharts/amstock.js"></script>
+<script type="text/javascript" src="/mkt/javascripts/chart/stockchart.js"></script>
+<script type="text/javascript" src="/mkt/javascripts/numeral.min.js"></script>
+<script type="text/javascript" src="/mkt/javascripts/chart/intradaystockchart.js"></script>
+<script type="text/javascript" src="/mkt/javascripts/chart/legendconfig.js"></script>
+<style>
+    #chartdiv{
+        width: 100%;
+        height: 300px;
+        margin-bottom:30px;
+    }
+    #legend{
+        width: 100%;
+        margin-top:20px;
+    }
+    #legend .title{
+        font-family:Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: bold;
+        float:left;
+        margin:5px 45px 5px 0;
+    }
+    #legend .item{
+        font-family:Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        float: left;
+        margin:5px 0;
+    }
+</style>
+<div style="width:100%; padding: 10px;">
+    <form class="form-horizontal" name="graph">
+        <div class="form-group">
+            <div class="col-xs-6 col-md-6 col-lg-4 float-right">
+                <select name="chartType" onchange="javascript: changeLowerPanel(this.value, chart);" class="form-control" style="font-size:10pt;">
+                    <option value="volume">ปริมาณ</option>
+                    <option value="value">มูลค่า</option>
+                    <option value="accVolume">ปริมาณรวม</option>
+                    <option value="accValue" selected>มูลค่ารวม</option>
+                </select>
+            </div>
+        </div>
+    </form>
+    <div style="font-weight: bold; text-align: center;">กองทุนรวมโครงสร้างพื้นฐานโรงไฟฟ้า อมตะ บี.กริม เพาเวอร์ </div>
+    <div id="legend"></div>
+    <div id="chartdiv"></div>
+</div>
+<script type="text/javascript">
+    var chartDataUrl = "stockchartdata.do?symbol=ABPIF&time=1618258797740";
+    loadCSV(chartDataUrl);
+</script>
+
+      
+      <table class="table table-hover table-set col-3-center table-set-border-yellow">
+        <tbody>
+        <tr>
+          <td>ราคาเสนอซื้อ&nbsp;/&nbsp;ปริมาณ (หุ้น)</td>
+          <td>
+            2.56  &nbsp;/&nbsp;
+            126,900
+          </td>
+        </tr>
+        <tr>
+          <td>ราคาเสนอขาย&nbsp;/&nbsp;ปริมาณ (หุ้น)</td>
+          <td>
+            2.58  &nbsp;/&nbsp;
+            293,300
+          </td>
+        </tr>
+        </tbody>
+      </table>
+      <div class="remark-content col-xs-12">
+          ATO - คำสั่งซื้อหรือขายหลักทรัพย์ ณ ราคาเปิดตลาด<br>
+          ATC - คำสั่งซื้อหรือขายหลักทรัพย์ ณ ราคาปิดตลาด<br>
+          หมายเหตุ: ปริมาณ/มูลค่าการซื้อขายรวมจากทุกวิธีการซื้อขาย (Auto matching Trade Report, Odd Lot)
+      </div>
+    </div>
+  </div>
+
+
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="related-menu" class="webonly col-lg-12">
+                    <div class="row">
+                        <div id="relatedMenu">
+                            
+
+    
+        
+    
+    
+
+<div class="relatedmenu-head">Related Info.</div>
+<div class="relatedmenu-body">
+    <ul>
+        <li><a href="http://marketdata.set.or.th/mkt/sectorialindices.do?language=th&country=TH" target="_blank">ราคาดัชนีตลาดหลักทรัพย์</a></li>
+        <li><a href="http://marketdata.set.or.th/mkt/sectorquotation.do?sector=SET50&language=th&country=TH" target="_blank">ราคาหลักทรัพย์</a></li>
+        <li><a href="http://www.set.or.th/th/market/market_statistics.html#industry" target="_blank">สรุปฐานะการเงิน ผลการดำเนินงานรายอุตสาหกรรม</a></li>
+        <li><a href="http://www.set.or.th/set/memberlist.do?language=th&country=TH" target="_blank">รายชื่อบรัษัทสมาชิกตลาดหลักทรัพย์แห่งประเทศไทย</a></li>
+        <li><a href="http://www.set.or.th/th/products/info/details_p1.html" target="_blank">บริการข้อมูลหลักทรัพย์</a></li>
+    </ul>
+  <p><img src="/images/leftbox-dot.gif" width="162" height="1" /></p>
+    <ul>
+      <li><a href="http://www.set.or.th/set/meetingcalendar.do?eventType=MEET&index=1&language=th&country=TH" target="_blank">ปฏิทินการจัดประชุมผู้ถือหุ้น </a></li>
+      <li><a href="http://www.set.or.th/education/th/begin/glossary.html" target="_blank">คำศัพท์น่ารู้</a></li>
+      <li><a href="http://www.sec.or.th/" target="_blank">เว็บไซต์ ก.ล.ต.</a></li>
+    </ul>
+  <p><img src="/images/leftbox-dot.gif" width="162" height="1" /></p>
+	<div align="center"><a href="http://www.settrade.com" target="_blank"><img alt="www.settrade.com" src="/relatedmenu/images/logo_settrade.jpg"/></a></div>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Body -->
+    </div>
+</div>
+
+<!-- Bottom Zone -->
+<div class="webonly">
+    <div class="container">
+        <div class="row under-content">
+            
+                
+                
+                    
+                
+            
+            <div class="col-xs-12 text-center hidden-xs">
+	<div class="personalized-footer-banner-pc-optimize" style="padding-bottom: 15px; display: none;">
+	  <a href="#" target="_blank"><img src="#"></a>
+	</div>
+</div>
+<div class="col-xs-12 text-center visible-xs">
+	<div class="personalized-footer-banner-mobile-optimize" style="padding-bottom: 15px; display: none;">
+	  <a href="#" target="_blank"><img src="#"></a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 contact-select">
+    <div class="col-xs-12 col-md-6 padding-0">
+	เว็บไซต์ในกลุ่มตลาดหลักทรัพย์แห่งประเทศไทย 
+	</div>
+    <div class="col-xs-12 col-md-6 select-style">
+        <form id="jump" method="get" target="_blank">
+		<select id="sgurl">
+			<option value="">---------- กรุณาเลือก ----------</option>
+            <option value="https://www.settrade.com">Settrade</option>
+            <option value="https://www.tfex.co.th">TFEX</option>
+            <option value="http://www.set.or.th/nvdr/th/nvdr.html">THAI NVDR</option>
+			<option value="http://www.setsmart.com">SETSMART</option>
+			<option value="https://www.setsocialimpact.com">SET Social Impact</option>
+			<option value="https://www.maruey.com">ห้องสมุดมารวย</option>
+			<option value="http://www.cma.in.th">CMA  สถาบันวิทยาการตลาดทุน</option>
+            <option value="https://www.live-platforms.com/">LiVE Platform</option>
+		</select>
+        </form>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 contact-call">
+    <div class="col-xs-4 col-sm-4 col-md-4 contact-text"><strong>SET Contact Center</strong></div>
+	<div class="col-xs-2 col-sm-2 col-md-2 contact-text">
+        <p><a href="https://www.set.or.th/set/contactcenter.do?language=th&country=TH" target="_blank"><font color="#000000">www.set.or.th/contactcenter</font></a><br>02-009-9999</p>
+    </div>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+    $('#sgurl').change(function() {
+        var url = $("#sgurl").val();
+        if(url!="") {
+            $("#jump").attr("action", url);
+            $("#jump").submit();
+        }
+    });
+</script>
+        </div>
+    </div>
+
+    <!-- Start footer -->
+    <footer>
+        
+            
+            
+                
+                
+            
+        
+        <div class="container-fluid footer-bg webonly">
+    <div class="footer-header-bg"></div>
+    <div class="container padding-0">
+    <ul class="footer-menu">
+    <li><a href="https://www.set.or.th/th/about/index.html"> เกี่ยวกับตลท.</a>
+        <ul class="none-border">
+            <li><a href="https://www.set.or.th/th/about/vision/vision_p1.html">พันธกิจและวิสัยทัศน์</a></li>
+			<li><a href="https://www.set.or.th/th/about/overview/history_p1.html">ภาพรวม ตลท.</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/about/overview/history_p1.html">ประวัติและบทบาท</a></li>
+                    <li><a href="https://www.set.or.th/th/about/overview/board_p1.html">คณะกรรมการ</a></li>
+                    <li><a href="https://www.set.or.th/th/about/overview/organization_p1.html">คณะผู้บริหาร/โครงสร้าง</a></li>
+                    <li><a href="https://www.set.or.th/th/about/overview/setlogo_p1.html">ตราสัญลักษณ์ ตลท.</a></li>
+                    <li><a href="https://www.set.or.th/th/about/overview/setgroup_p1.html">กลุ่มตลาดหลักทรัพย์</a></li>
+                    <li><a href="https://www.set.or.th/th/about/overview/share_p1.html">โครงสร้างการถือหุ้น</a></li>
+                    <li><a href="https://www.set.or.th/th/about/overview/setcg_p1.html">การกำกับดูแลกิจการที่ดี</a></li>
+                    <li><a href="https://www.set.or.th/th/about/overview/whistleblowing_p1.html">การแจ้งเบาะแส</a></li>
+                    <li><a href="http://www.tfex.co.th/th/about/glance.html" target="_blank">เกี่ยวกับตลาดสัญญาซื้อขายล่วงหน้า</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/about/annual/annual_p1.html">รายงานผลการดำเนินงาน</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/about/annual/annual_p1.html">รายงานประจำปี</a></li>
+                    <li><a href="https://www.set.or.th/th/about/annual/sd_report_p1.html">รายงานความยั่งยืน</a></li>
+                    <li><a href="https://www.set.or.th/th/about/annual/financial_statement_p1.html">งบการเงินประจำปีและ MD&A</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/set/holiday.do?language=th&country=TH">วันหยุดตลาดหลักทรัพย์</a></li>
+            <li><a href="https://erecruit.set.or.th/erecruit/form/" target="_blank">สมัครงาน</a></li>
+            <li><a href="https://www.set.or.th/th/about/map/map_p1.html">แผนที่ตลาดหลักทรัพย์</a></li>
+            <li><a href="https://www.set.or.th/th/about/setupdate/setupdate_p1.html">SET Update </a>
+			<li><a href="https://www.set.or.th/th/about/newsletter/newsletter_p1.html">SET Newsletter </a>
+            <li><a href="https://www.set.or.th/th/about/sse/guideline_p1.html">ตลท.เพื่อความยั่งยืน</a></li>
+        </ul>
+    </li>
+    <li><a href="https://www.set.or.th/th/regulations/index.html">กฎเกณฑ์/การกำกับ</a>
+        <ul>
+            <li><a href="https://www.set.or.th/th/regulations/supervision/listed_p1.html">หลักเกณฑ์และการกำกับ</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/regulations/supervision/listed_p1.html">การกำกับบริษัทจดทะเบียน</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/supervision/surveillance_p1.html">การกำกับการซื้อขาย</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/supervision/member_p1.html">การกำกับบริษัทสมาชิก </a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/supervision/enforcement_p1.html">วินัยและคดี</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/supervision/market_policy_p1.html">นโยบายกำกับตลาด</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/rulebook/#/regulation">กฎเกณฑ์</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/rulebook/#/regulation" target="_blank">กฎเกณฑ์ (Rulebooks)</a></li>
+                    <li><a href="https://www.set.or.th/rulebook/#/circular" target="_blank">หนังสือเวียน</a></li>
+					<li><a href="https://www.set.or.th/rulebook/#/form" target="_blank">แบบฟอร์ม</a></li>
+                    <li><a href="https://www.set.or.th/rulebook/#/advancedSearch" target="_blank">Advanced Search</a></li>
+                    <!--<li><a href="https://www.set.or.th/th/regulations/rule_amendments/rule_amendments_p1.html">กฎเกณฑ์ใหม่</a></li>-->
+                    <li><a href="https://www.set.or.th/th/regulations/simplified_regulations/simplified_regulations_p1.html">Simplified Regulations</a></li>
+					<li><a href="https://www.set.or.th/th/regulations/smart_disclosure_program/live.html">โครงการ Smart Disclosure Program</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/regulations/enforcement/enforcement_p1.html">การบังคับใช้</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/regulations/enforcement/enforcement_p1.html">กระบวนการพิจารณา</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/enforcement/disprocess_p1.html">กระบวนการพิจารณาความผิดทางวินัย</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/enforcement/aplprocess_p1.html">กระบวนการพิจารณาอุทธรณ์</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/enforcement/penalties_p1.html">การดำเนินการทางวินัย</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/regulations/tax/tax_p1.html">ภาษี</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/regulations/tax/tax_p1.html">ตราสารทุน</a></li>
+                    <li><a href="https://www.set.or.th/th/regulations/tax/tax_bond_p1.html">ตราสารหนี้</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/regulations/protection/protection_p1.html">การคุ้มครองผู้ลงทุน</a></li>
+            <li><a href="https://www.set.or.th/th/regulations/consult/market_consultation_p1.html">Market Consultation </a></li>
+            <li><a href="https://www.set.or.th/set/regulatorystatistics.do?language=th&country=TH">ค่าสถิติงานกำกับ</a></li>
+        </ul>
+    </li>
+    <li><a href="https://www.set.or.th/th/products/index.html">สินค้า/บริการ</a>
+        <ul>
+            <li><a href="https://www.set.or.th/th/products/index/setindex_p1.html">ดัชนี</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/products/index/setindex_p1.html">ดัชนีตลาดหลักทรัพย์</a></li>
+                    <li><a href="https://www.set.or.th/th/products/index/maiindex_p1.html">ดัชนี mai</a></li>
+                    <li><a href="https://www.set.or.th/th/products/index/ftse_set_p1.html">ดัชนี FTSE SET </a></li>
+                    <li><a href="https://www.set.or.th/th/products/index/ftse_asean_p1.html">ดัชนี FTSE ASEAN</a></li>
+                    <li><a href="https://www.set.or.th/th/products/index/tri_p1.html">ดัชนีผลตอบแทนรวม (TRI)</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/products/equities/equities_p1.html">ตราสารทุน</a></li>
+            <!--<li><a href="https://www.set.or.th/th/products/bonds/bonds_p1.html">ตราสารหนี้</a></li>-->
+            <li><a href="http://www.tfex.co.th/th/products/products.html" target="_blank">ตราสารอนุพันธ์</a></li>
+            <li><a href="https://www.set.or.th/set/etfstatistics.do?language=th&country=TH">อีทีเอฟ (ETF)</a></li>
+            <li><a href="https://www.set.or.th/set/education/html.do?name=mutualfund&amp;showTitle=F" target="_blank">กองทุนรวม</a></li>
+            <li><a href="https://www.set.or.th/site/products/dw?lang=th" target="_blank">ใบสำคัญแสดงสิทธิอนุพันธ์ (DW)</a></li>
+			<!--
+			<li><a href="https://www.set.or.th/th/products/dr/dr_knowledge.html">Depository Receipts (DR)</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://marketdata.set.or.th/mkt/stocklistbytype.do?type=X&market=A&language=th&country=TH">ราคา DR</a></li>
+                    <li><a href="https://www.set.or.th/set/drinformation.do?language=th&country=TH">ข้อมูล DR</a></li>
+                    <li><a href="https://www.set.or.th/th/products/dr/dr_issuer.html">ข้อมูลผู้ออก DR</a></li>
+                    <li><a href="https://www.set.or.th/th/products/dr/dr_knowledge.html">ความรู้ผู้ลงทุน</a></li>
+                    <li><a href="https://www.set.or.th/th/products/dr/dr_faq.html">ถาม-ตอบ</a></li>
+                </ul>
+            </li>
+			-->
+            <li><a href="https://www.set.or.th/th/products/info/details_p1.html">บริการข้อมูลหลักทรัพย์</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/products/info/details_p1.html">ประเภทของข้อมูล</a></li>
+                    <li><a href="https://www.set.or.th/th/products/info/subscription_p1.html">ติดต่อรับบริการ</a></li>
+                    <li><a href="https://www.set.or.th/th/products/info/data_vendors_p1.html">รายชื่อผู้ขายข้อมูลรับอนุญาต</a></li>
+                    <li><a href="https://www.set.or.th/th/products/info/policy_p1.html">นโยบายการใช้ข้อมูลตลาดหลักทรัพย์</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/products/listing2/listing_set_p1.html">บริการการเข้าจดทะเบียน</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/products/listing2/listing_set_p1.html">การเข้าจดทะเบียนตราสารทุน</a></li>
+                    <li><a href="https://www.set.or.th/th/products/listing/bond_listing_p1.html">การเข้าจดทะเบียนตราสารหนี้</a></li>
+					<li><a href="https://www.set.or.th/th/products/listing2/download_p1.html">แบบฟอร์ม แบบคำขอ และแบบรายงาน</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/products/institution/institution_p1.html">บริการสำหรับผู้ลงทุนสถาบัน</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/products/institution/institution_p1.html">วิธีการซื้อขายสำหรับผู้ลงทุนสถาบัน </a></li>
+                    <li><a href="https://www.set.or.th/th/products/institution/dma.html">Direct Market Access (DMA)</a></li>
+                    <li><a href="https://www.set.or.th/th/products/institution/program_trading.html">Program Trading</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/products/trading/equity/trading_p1.html">วิธีการซื้อขาย </a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/products/trading/equity/trading_p1.html">การซื้อขายตราสารทุน</a></li>
+                    <li><a href="https://www.set.or.th/th/products/trading/bond/bond_trading_p1.html">การซื้อขายตราสารหนี้</a></li>
+                    <li><a href="http://www.tfex.co.th/th/education/files/2011-09-FiveSteps-Trading-Th.pdf" target="_blank">การซื้อขายตราสารอนุพันธ์</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/set/memberlist.do?language=th&country=TH">บริษัทสมาชิก</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/set/memberlist.do?language=th&country=TH">รายชื่อบริษัทสมาชิกตลาดหลักทรัพย์แห่งประเทศไทย</a></li>
+                    <li><a href="https://www.set.or.th/th/products/member/firsts/firsts_dealer_p1.html">รายชื่อผู้ค้าตราสารหนี้ในระบบ Firsts</a></li>
+                    <li><a href="https://www.set.or.th/th/products/member/firsts/firsts_investor_p1.html">รายชื่อผู้ลงทุนสถาบันในระบบ Firsts</a></li>
+                    <li><a href="http://www.tfex.co.th/th/member/list.html" target="_blank">รายชื่อบริษัทสมาชิกตลาดสัญญาซื้อขายล่วงหน้า</a></li>
+                    <li><a href="https://www.set.or.th/th/products/member/member_stock.html">การรับสมาชิก</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/th/products/isv/isv_p1.html">บริษัทผู้พัฒนาระบบ (ISV)</a></li>
+			<li><a href="https://www.set.or.th/th/setapp.html">SET App</a></li>
+			<li><a href="https://www.set.or.th/th/socialmedia/all.html">SET Social Media</a></li>
+            <li><a href="https://www.set.or.th/th/products/financial/financial_instruments.html">เครื่องมือทางการเงิน</a></li>
+            <li><a href="https://www.set.or.th/th/products/resource/resource_p1.html">แหล่งศึกษาข้อมูล</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/th/market/MnA.html">การควบรวมกิจการ</a></li>
+                    <li><a href="https://www.set.or.th/th/products/resource/resource_p1.html">บริการ/ช่องทางเผยแพร่ข้อมูล</a></li>
+                    <li><a href="https://www.set.or.th/setresearch/setresearch.html">SET Research</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="min-height-500-sm"><a href="http://marketdata.set.or.th/mkt/sectorialindices.do?language=th&country=TH">ข้อมูลการซื้อขาย</a>
+        <ul>
+            <li><a href="http://marketdata.set.or.th/mkt/sectorialindices.do?language=th&country=TH">ดัชนี</a>
+                <ul class="footer-submenu">
+                    <li><a href="http://marketdata.set.or.th/mkt/sectorialindices.do?language=th&country=TH">ราคาดัชนีตลาดหลักทรัพย์</a></li>
+                    <li><a href="http://marketdata.set.or.th/mkt/ftsesetindex.do?language=th&country=TH">ราคาดัชนี FTSE SET Series</a></li>
+                    <li><a href="https://www.set.or.th/th/market/setindexchart.html">กราฟราคาดัชนีย้อนหลัง</a></li>
+                    <li><a href="https://www.set.or.th/th/market/ftse_asean.html">ราคาดัชนี FTSE ASEAN</a></li>
+                    <li><a href="https://www.set.or.th/th/market/constituents.html">รายชื่อหลักทรัพย์ที่ใช้คำนวณดัชนี</a></li>
+                    <li><a href="https://www.set.or.th/th/market/tri.html">ราคาดัชนีผลตอบแทนรวม</a></li>
+					<li><a href="https://www.set.or.th/th/market/market_statistics.html">สถิติดัชนีตลาดหลักทรัพย์</a></li>
+                </ul>
+            </li>
+            <li><a href="http://marketdata.set.or.th/mkt/marketsummary.do?language=th&country=TH">ตราสารทุน</a>
+                <ul class="footer-submenu">
+                    <li><a href="http://marketdata.set.or.th/mkt/marketsummary.do?language=th&country=TH">สรุปภาพรวมตลาด</a></li>
+                    <li><a href="http://marketdata.set.or.th/mkt/sectorquotation.do?sector=SET50&language=th&country=TH">ราคาหลักทรัพย์</a></li>
+                    <li><a href="http://marketdata.set.or.th/mkt/topten.do?language=th&country=TH">สิบอันดับหลักทรัพย์</a></li>
+                    <li><a href="https://www.set.or.th/set/nvdroverview.do?language=th&country=TH">ข้อมูล NVDR</a></li>
+                    <li><a href="https://www.set.or.th/set/shortsales.do?language=th&country=TH">ข้อมูลธุรกรรมขายชอร์ต</a></li>
+                    <li><a href="http://marketdata.set.or.th/mkt/fivedays.do?language=th&country=TH">สรุปมูลค่าการซื้อขาย 5 วันทำการล่าสุด</a></li>
+                    <li><a href="http://marketdata.set.or.th/mkt/investortype.do?language=th&country=TH">สรุปมูลค่าการซื้อขายตามกลุ่มนักลงทุน</a></li>
+                </ul>
+            </li>
+            <li><a href="http://marketdata.set.or.th/tfx/tfexoverview.do?locale=th_TH">ตราสารอนุพันธ์</a>
+                <ul class="footer-submenu">
+                    <li><a href="http://marketdata.set.or.th/tfx/tfexoverview.do?locale=th_TH">สรุปภาพรวมตลาด</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/tfexintradayreport.do?locale=th_TH">ราคาอนุพันธ์</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/tfexblocktradereport.do?locale=th_TH">ข้อมูลการซื้อขายรายใหญ่ (Block Trade)</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/tfexinvestortypetrading.do?locale=th_TH">สรุปปริมาณซื้อขายตามกลุ่มนักลงทุน</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/tfexhistoricalreport.do?locale=th_TH">ข้อมูลการซื้อขายย้อนหลัง</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/tfexbrokerrank.do?locale=th_TH">อันดับการซื้อขายของบริษัทสมาชิก </a></li>
+                    <li><a href="http://www.tfex.co.th/tfex/referenceData.html?locale=th_TH" target="_blank">ข้อมูลอ้างอิง</a></li>
+                    <li><a href="http://www.tfex.co.th/tfex/downloadSeriesProfile.html" target="_blank">ดาวน์โหลด Series Profile</a></li>
+                </ul>
+            </li>
+            <!--<li><a href="http://marketdata.set.or.th/tfx/bexoverview.do?locale=th_TH">ตราสารหนี้</a>
+                <ul class="footer-submenu">
+                    <li><a href="http://marketdata.set.or.th/tfx/bexoverview.do?locale=th_TH">สรุปภาพรวมตลาด</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bexgovbondyield.do?locale=th_TH">อัตราผลตอบแทนพันธบัตรรัฐบาลระหว่างวัน</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bexquotationbyissuer.do?locale=th_TH">ราคาตราสารหนี้ (AOM)</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bexdealerquote.do?locale=th_TH">ราคาเสนอซื้อ-ขาย ของ Dealer</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bexhistoricaldata.do?locale=th_TH">ข้อมูลการซื้อขายย้อนหลัง </a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bexinterestrate.do?locale=th_TH">อัตราอ้างอิง</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bexcreditrating.do?locale=th_TH">อันดับเครดิต</a></li>
+                    <li><a href="http://www.settrade.com/C03_05_bond_Calculator.jsp" target="_blank">เครื่องคำนว��ตราสารหนี้</a></li>
+                </ul>
+            </li>-->
+            <li><a href="https://www.set.or.th/th/market/market_statistics.html">สถิติสำคัญของตลาดหลักทรัพย์</a></li>
+        </ul>
+    </li>
+    <li><a href="https://www.set.or.th/set/todaynews.do?language=th&country=TH">ข้อมูลบริษัท/หลักทรัพย์</a>
+        <ul>
+            <li><a href="https://www.set.or.th/set/todaynews.do?language=th&country=TH">ข่าวบริษัท/หลักทรัพย์</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/set/todaynews.do?language=th&country=TH">ข่าววันนี้ </a></li>
+                    <li><a href="https://www.set.or.th/set/newslistinput.do?language=th&country=TH&headline=">ข่าวย้อนหลัง </a></li>
+                    <li><a href="https://www.set.or.th/set/marketalertnews.do?language=th&country=TH">Market Alerts </a></li>
+                    <li><a href="https://www.set.or.th/set/cashbalancesecurity.do?language=th&country=TH">หลักทรัพย์ที่เข้าข่ายมาตรการกำกับการซื้อขาย</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/set/commonslookup.do?language=th&country=TH">ตราสารทุน</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/set/commonslookup.do?language=th&country=TH">ข้อมูลรายบริษัท / หลักทรัพย์</a></li>
+                    <li><a href="https://www.set.or.th/set/xcalendar.do?language=th&country=TH">ปฏิทินหลักทรัพย์ </a></li>
+                    <li><a href="https://www.set.or.th/th/company/ipo/upcoming_ipo_set.html">หุ้นไอพีโอ</a></li>
+                    <li><a href="https://www.set.or.th/set/ipo.do?language=th&country=TH">บริษัท / หลักทรัพย์จดทะเบียนเข้าใหม่</a></li>
+                    <li><a href="https://www.set.or.th/th/company/companylist.html">รายชื่อบริษัท / หลักทรัพย์</a></li>
+                    <li><a href="https://www.set.or.th/tsd/th/download/isin.html" target="_blank">เลขรหัสหลักทรัพย์สากล</a></li>
+                </ul>
+            </li>
+            <!--<li><a href="http://marketdata.set.or.th/tfx/bondlookup.do?locale=th_TH">ตราสารหนี้</a>
+                <ul class="footer-submenu">
+                    <li><a href="http://marketdata.set.or.th/tfx/bondlookup.do?locale=th_TH">ข้อมูลรายตราสารหนี้</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bondcalendar.do?locale=th_TH">ปฏิทินตราสารหนี้</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bondoutstanding.do?locale=th_TH">สรุปมูลค่าคงค้าง</a></li>
+                    <li><a href="http://marketdata.set.or.th/tfx/bondlisting.do?locale=th_TH">ตราสารหนี้จดทะเบียนใหม่</a></li>
+                </ul>
+            </li>-->
+            <li><a href="https://www.set.or.th/streaming">Opportunity Day & Company Highlights</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/streaming">Opportunity Day</a></li>
+                    <li><a href="https://www.set.or.th/set/companysummary.do?language=th&country=TH">สรุปข้อสนเทศบริษัทจดทะเบียน</a></li>
+                    <li><a href="https://www.set.or.th/th/company/document/document_p1.html">Stock Focus</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><a href="https://www.set.or.th/mai/th/index.html">หน่วยงาน</a>
+        <ul>
+            <li><a href="https://www.set.or.th/mai/th/index.html">ตลาด mai</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/mai/th/about/vision.html">เกี่ยวกับ mai</a></li>
+                    <li><a href="http://portal.set.or.th/mai/notification.do?locale=th_TH">กฎเกณฑ์/กำกับ</a></li>
+                    <li><a href="http://portal.set.or.th/mai/todaynews.do?locale=th_TH">ข่าว</a></li>
+                    <li><a href="http://portal.set.or.th/mai/stocklistbytype.do?locale=th_TH">ข้อมูลการซื้อขาย</a></li>
+                    <li><a href="http://portal.set.or.th/mai/stockslookup.do?locale=th_TH">ข้อมูลบริษัทจดทะเบียน</a></li>
+                    <li><a href="https://www.set.or.th/th/products/listing2/listing_mai_p1.html">การเข้าจดทะเบียน/IPO</a></li>
+                    <li><a href="http://portal.set.or.th/mai/activitycontent.do?locale=th_TH&categoryId=2">กิจกรรม</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/tch/th/index.html">สำนักหักบัญชี TCH</a>
+                <ul class="footer-submenu">
+                    <li><a href="https://www.set.or.th/tch/th/about/about.html">เกี่ยวกับ TCH</a></li>
+                    <li><a href="https://www.set.or.th/tch/th/equity/members.html">บริการชำระราคาและส่งมอบหลักทรัพย์</a></li>
+                    <li><a href="https://www.set.or.th/set/notification.do?idLv1=144&language=th&country=TH">กฎเกณฑ์/กำกับ</a></li>
+                    <li><a href="https://www.set.or.th/tch/th/derivatives/statistic.html">เอกสารเผยแพร่</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.set.or.th/tsd/th/index.html">ศูนย์รับฝากหลักทรัพย์</a>
+				<ul class="dropdown-menu popover-set navtop" role="menu">
+                    <li><a href="https://www.set.or.th/tsd/th/about/overview.html">เกี่ยวกับ TSD</a></li>
+                    <li><a href="https://www.set.or.th/tsd/th/service/edividend.html">นักลงทุน</a></li>
+                    <li><a href="https://www.set.or.th/tsd/th/service/service2.html">บริษัทสมาชิกผู้ฝากหลักทรัพย์</a></li>
+                    <li><a href="https://www.set.or.th/tsd/th/service/service1.html">บริษัทจดทะเบียน</a></li>
+					<li><a href="https://www.set.or.th/set/notification.do?idLv1=5&idLv2=49&language=th&country=TH">กฎเกณฑ์/กำกับ</a></li>
+					<li><a href="https://www.set.or.th/tsd/th/download/statistic.html">ข้อมูลสถิติ</a></li>
+                </ul>
+			</li>
+			<li><a href="http://www.settrade.com" target="_blank">Settrade</a>
+				<ul class="footer-submenu">
+                    <li><a href="http://www.settrade.com/C13_MarketSummary.jsp?detail=SET50" target="_blank">ข้อมูลการซื้อขาย</a></li>
+                    <li><a href="http://www.settrade.com/C00_Redirect.jsp?txtPage=products/th/products-services.html" target="_blank">สินค้า/บริการ </a></li>
+                    <li><a href="http://www.settrade.com/C08_News_Index.jsp" target="_blank">ข่าว/บทวิเคราะห์ </a></li>
+					<li><a href="http://www.settrade.com/C00_BeginnerRedirect.jsp?txtPage=beginnerZone/th/main.html" target="_blank">มือใหม่ลงทุน </a></li>
+                </ul>
+			</li>
+        </ul>
+    </li>
+    <li><a href="https://www.setinvestnow.com">ความรู้การลงทุน </a>
+        <ul>
+            <li><a href="https://www.setinvestnow.com" target="_blank">มุมผู้ลงทุน</a></li>
+			<li><a href="https://www.set.or.th/happymoney">Happy Money</a></li>
+            <li><a href="http://www.maruey.com" target="_blank">ห้องสมุดมารวย</a></li>
+            <li><a href="http://investory.set.or.th" target="_blank">INVESTORY</a></li>
+            <li><a href="https://www.set.or.th/setbook/index.html">SET Book</a></li>
+            <li><a href="https://www.set.or.th/professional/">มุมผู้ประกอบวิชาชีพ</a></li>
+			<li><a href="https://www.set.or.th/enterprise/">ห้องเรียนผู้ประกอบการ</a></li>
+        </ul>
+    </li>
+    <li><a href="https://www.set.or.th/set/newsrelease.do?language=th&country=TH">ข่าว/กิจกรรม</a>
+        <ul>
+            <li><a href="https://www.set.or.th/set/newsrelease.do?language=th&country=TH">News Release</a></li>
+            <li><a href="http://portal.set.or.th/tsd/eventcalendar.html?locale=th_TH">ปฏิทินกิจกรรม</a></li>
+            <li><a href="https://www.set.or.th/set/activityList.do?language=th&country=TH&categoryId=2">ภาพกิจกรรมบจ./ผู้ออกหลักทรัพย์</a></li>
+            <li><a href="https://www.set.or.th/set/iposhowcase.do?market=A&language=th&country=TH">กิจกรรมด้านผู้ออกหลักทรัพย์ </a></li>
+            <li><a href="https://www.set.or.th/th/news/capital_market_innovation_awards/competition_p1.html">Capital Market Innovation Awards</a></li>
+			<li><a href="https://www.set.or.th/th/news/cm_research_innovation/competition_p1.html">CM Research Innovation</a></li>
+			<li><a href="https://www.set.or.th/th/news/thailand_focus/thailandfocus_p1.html">Thailand Focus</a></li>
+            <li><a href="https://www.set.or.th/th/news/csr/csr_p1.html">ความรับผิดชอบต่อสังคม</a></li>
+        </ul>
+    </li>
+    </ul>
+    <div class="container padding-0">
+        <div class="footer-col-3 footer-social ">
+            <div class="footer-body-menu">
+                <ul class="footer-body-menu-ul">
+                    <li><i class="fa fa-globe"></i><a href="https://www.set.or.th/setresearch" target="_blank">SET Research</a></li>
+					<li><i class="fa fa-cog"></i><a href="https://www.set.or.th/education/th/online_classroom/tool.html" target="_blank">เครื่องมือการเงินออนไลน์</a></li>
+                    <li><i class="fa fa-graduation-cap"></i><a href="https://www.set.or.th/education/th/online_classroom/index.html" target="_blank">ห้องเรียนออนไลน์ </a></li>
+                    <li><i class="fa fa-play-circle-o"></i><a href="https://www.youtube.com/user/setgroupofficial" target="_blank">VIDEO CENTER (เริ่มต้น/มือใหม่/มือโปร)</a></li>
+                    <li><i class="fa fa-facebook"></i><a href="https://www.facebook.com/set.or.th" target="_blank">www.facebook.com/set.or.th</a></li>
+                    <li><i class="fa fa-twitter"></i><a href="https://twitter.com/SET_Thailand" target="_blank">TWITTER @SET_Thailand</a></li>
+                    <li><i class="fa fa-youtube-play"></i><a href="https://www.youtube.com/user/setgroupofficial" target="_blank">Youtube.com/setgroupofficial</a></li>
+                    <li><i class="fa fa-rss"></i><a href="https://www.set.or.th/th/rss/rss_p1.html" target="_blank">RSS Feed</a></li>
+                </ul>
+				<ul class="footer-body-menu-ul">
+					<li><a href="https://www.set.or.th/th/faqs/web_p1.html" target="_blank">ถาม - ตอบ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <a href="https://www.set.or.th/th/contact/contact.html" target="_blank">ติดต่อเรา</a><br><a href="https://www.set.or.th/th/links/setgroup_website.html" target="_blank">เว็บไซต์น่าสนใจ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <a href="https://www.set.or.th/th/sitemap/sitemap_p1.html" target="_blank">แผนผังเว็บไซต์</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+        <div class="container-fluid footer-bottom">
+    <div class="container">
+        <div class="row ">
+    ตลาดหลักทรัพย์แห่งประเทศไทย | สงวนลิขสิทธิ์ <br> เนื้อหาทั้งหมดบนเว็บไซต์นี้ มีขึ้นเพื่อวัตถุประสงค์ในการให้ข้อมูลและเพื่อการศึกษาเท่านั้น ตลาดหลักทรัพย์ฯ มิได้ให้การรับรองและขอปฏิเสธต่อความรับผิดใด ๆ ในเว็บไซต์นี้ <br>
+ <strong>
+   <a href="https://www.set.or.th/th/terms-and-conditions.html" target="_blank">ข้อตกลงและเงื่อนไขการใช้งานเว็บไซต์</a> 
+   | <a href="https://www.set.or.th/th/privacy-center.html" target="_blank">การคุ้มครองข้อมูลส่วนบุคคล</a> 
+   | <a href="https://www.set.or.th/th/cookies_policy.html" target="_blank">นโยบายการใช้คุกกี้</a> 
+   | <a href="https://www.set.or.th/th/thirdparty-terms.html" target="_blank">เงื่อนไขการใช้ข้อมูลของผู้ให้บริการรายอื่น</a>
+ </strong> 
+        </div>
+    </div>
+</div>
+<a href="#header" id ="backToTopBtn" class="gototop btn-set-rollover btn-set-upx2"></a>
+
+
+        <div id="showTruehit" class="truehit">
+            <!-- BEGIN WEB STAT CODE---->
+            <script language="javascript1.1"> page="th - Companies - Daily Stock quote";</script>
+            <script type="text/javascript">
+	  (function() {
+		  var ga = document.createElement('script'); ga.type = 'text/javascript';
+		  ga.async = true;
+		  ga.src = "//lvs.truehits.in.th/dataa/c0002486.js";
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+</script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-426404-1', 'auto');
+//	ga('send', 'pageview');
+</script>
+
+            <!-- END WEB STAT CODE -->
+        </div>
+    </footer>
+    <!-- End footer -->
+
+    <script type="text/javascript" src="/scripts/socialmedia/facebook-module.js" />
+<!--[if lt IE 9]>
+<script type="text/javascript">
+	//IE8 bind method hack
+	if (!Function.prototype.bind) {
+		Function.prototype.bind = function(oThis) {
+			if ( typeof this !== 'function') {
+				// closest thing possible to the ECMAScript 5
+				// internal IsCallable function
+				throw new TypeError('Function.prototype.bind - what is trying to be bound is not callable');
+			}
+
+			var aArgs = Array.prototype.slice.call(arguments, 1), fToBind = this, fNOP = function() {
+			}, fBound = function() {
+				return fToBind.apply(this instanceof fNOP && oThis ? this : oThis, aArgs.concat(Array.prototype.slice.call(arguments)));
+			};
+
+			fNOP.prototype = this.prototype;
+			fBound.prototype = new fNOP();
+
+			return fBound;
+		};
+	}
+</script>
+<![endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+	window.jQuery || document.write('<script src="/scripts/vendor/jquery.min.js"><\/script>')
+</script>
+
+<script src="/scripts/vendor/bootstrap.min.js"></script>
+<script src="/scripts/bootstrap-submenu.min.js"></script>
+<script type="text/javascript">
+	$('.dropdown-submenu > a').submenupicker();
+</script>
+<script src="/scripts/bootstrap-hover-dropdown.min.js"></script>
+<script src="/scripts/bootstrap-tabcollapse.js"></script>
+<!-- GSAP -->
+<script src="/scripts/gsap/TweenLite.min.js"></script>
+<script src="/scripts/gsap/easing/EasePack.min.js"></script>
+<script src="/scripts/gsap/jquery.gsap.min.js"></script>
+<script src="/scripts/gsap/plugins/CSSPlugin.min.js"></script>
+<script src="/scripts/plugins.js"></script>
+<script src="/scripts/main.js"></script>
+<script src="/scripts/jQuery.XDomainRequest.js"></script>
+<script src="/scripts/orientationchange.js"></script>
+
+    <!-- Manage Navigation -->
+    <script language="javascript">
+        var menu_id = '502001';
+        var orderMenu = 'company';
+    </script>
+    
+        
+        <script src="/scripts/menu/allLeftMenu-th.js"></script>
+    
+    <script src="/scripts/menu/genNavigation.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            readmenuvar();
+            leftnav('accordion');
+            generateBreadCrumbs('breadcrumbs');
+
+            try {
+                if (orderMenu !== undefined && orderMenu !== '') {
+                    window.dataLayer = window.dataLayer || [];
+                    dataLayer.push({
+                        "content_group": orderMenu
+                    });
+                }
+            } catch (err) {
+            }
+        });
+    </script>
+    <!-- End Navigation -->
+    
+
+
+
+
+
+
+
+
+<link href="/styles/chat.css" rel="stylesheet">
+<div class="fb-customerchat" page_id="95359944974" theme_color="#faae2f"></div>
+<div class="select-chatbot-panel">
+    <div class="live-chat-header">
+        <span onclick="closeChatPanel()">X</span>
+    </div>
+    <div class="live-chat-body">
+        <div class="live-btn">
+            <div>
+                SET Chatbot : ถามตอบเรื่องการลงทุน  24 ชั่วโมง
+            </div>
+            <div class="chatbot-link-container">
+                <button class="chatbot-link" onclick="openChatBot()">
+                    เลือก SET Chatbot กด
+                </button>
+            </div>
+        </div>
+        <div class="chatbot-btn">
+            <div>
+                สอบถามข้อมูลอื่นๆ กับเจ้าหน้าที่ ในวันทำการ เวลา 8.00 - 18.00 น.
+            </div>
+            <div class="chatbot-link-container">
+                <button class="chatbot-link" onclick="openLiveChat()">
+                    SET LiveChat กด
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="popup-outer-box">
+    <div class="chat-media" id="popup-inner-box">
+    <div class="chat-layout">
+        <div class="chat-container">
+            <button class="button-close" onclick="closeChatMedia()">
+                <img class="icon-close" src="/images/chat/times.png">
+            </button>
+            <div class="chat-title">สวัสดี&nbsp;
+                
+                    
+                    Thursday
+                
+            </div>
+            <div class="chat-detail">
+                <p class="chat-detail-text"></p>
+                <a class="chat-detail-link" href="#" target="_blank"><button class="button-now">คลิกที่นี่</button></a>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="chatbot-icon">
+    <a href="javascript:openChatSelection()">
+        <img src="/images/icon_chat_b.png"/>
+    </a>
+</div>
+<script src="/scripts/chat.js"></script>
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+    window.__lc = window.__lc || {};
+    window.__lc.license = 7604291;
+    (function() {
+        var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+        lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+    })();
+    window.__lc.visitor = {
+        name: '',
+        email: ''
+    };
+</script>
+<!-- End of LiveChat code -->
+
+    <div id="exitPageModal" class="exit-page-modal">
+    <div class="modal-dialog">
+        <div class="exit-page-modal-content">
+            <div class="exit-page-modal-header text-center">
+                <button type="button" class="close" aria-label="Close" onclick="closeModal();">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center">
+                <div id="personalized-exit-page-banner-optimize" class="personalized-exit-page-banner-optimize">
+                    <a href="#" target="_blank"><img src="#"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function addEvent(obj, event, fn) {
+        if (obj.addEventListener) {
+            obj.addEventListener(event, fn, false);
+        } else if (obj.attachEvent) {
+            obj.attachEvent("on" + event, fn);
+        }
+    }
+
+    function setCookie(name, value, days, domain) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        var _value = name + "=" + (value || "") + expires + "; path=/";
+        if (domain && domain !== "") {
+            _value += "; domain=" + domain;
+        }
+        document.cookie = _value;
+    }
+
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    function hideExitAd() {
+        setCookie("display-exit-ad", "false", 1, ".set.or.th");
+    }
+
+    // Open the Modal
+    function openModal() {
+        document.getElementById("exitPageModal").style.display = "block";
+    }
+
+    // Close the Modal
+    function closeModal() {
+        document.getElementById("exitPageModal").style.display = "none";
+    }
+
+    addEvent(document, 'mouseout', function (event) {
+        if (event.toElement == null && event.relatedTarget == null) {
+            console.log('display-exit-ad = ' + getCookie('display-exit-ad'));
+            var display = getCookie("display-exit-ad");
+            if (display === "true") {
+                openModal();
+            }
+            hideExitAd();
+        }
+    });
+
+    hideExitAd();
+
+</script>
+<style>
+    /* The Modal (background) */
+    .exit-page-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1050;
+        display: none;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        outline: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    #exitPageModal .modal-dialog {
+        max-width: 340px;
+        margin-top: 10%;
+    }
+
+    #exitPageModal .exit-page-modal-content {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        pointer-events: auto;
+        background-color: transparent;
+        background-clip: padding-box;
+        border: 0;
+        border-radius: .3rem;
+        outline: 0;
+    }
+
+    #exitPageModal .modal-body {
+        color: #242424;
+        padding: 0;
+    }
+    #exitPageModal .exit-page-modal-header{
+        padding-bottom: 0;
+        border: 0;
+        height: 45px;
+        background-color: transparent;
+    }
+
+    /* The Close Button */
+    #exitPageModal .close {
+        color: #fff;
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        text-decoration: none;
+        cursor: pointer;
+        font-family: "DB Helvethaica X";
+        font-size: 40px;
+    }
+
+</style>
+
+</div>
+<!-- End Bottom Zone -->
+</body>
+</html>
