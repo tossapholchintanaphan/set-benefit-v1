@@ -40,13 +40,12 @@ function loopThroughSplittedText(splittedText) {
       setTimeout(function () {
         a = getPriceOfName(splittedText[i]);
         console.log(`- Get price of '${splittedText[i]}'`);
-      }, 1000 * i);      
+      }, 100 * i);      
     })(i);
   };
 }
 
 function getPriceOfName(name) {
-// https://www.set.or.th/set/companyrights.do?symbol=2S&ssoPageId=7&language=th&country=TH
   let a,b;
   const path = '/mkt/stockquotation.do?symbol={symbol}&ssoPageId=1&language=th&country=TH'
     .replace('{symbol}', name)

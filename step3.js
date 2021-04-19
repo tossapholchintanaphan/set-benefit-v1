@@ -1,5 +1,3 @@
-// https://www.set.or.th/set/companyrights.do?symbol=2S&ssoPageId=7&language=th&country=TH
-
 const fs = require("fs");
 const https = require('https');
 
@@ -13,9 +11,6 @@ setTimeout(() => {
   newTXT('./tmp/list-price-xd-stock.txt', '');
   loopThroughSplittedText(listPriceStockFormat);
 }, 1000);
-
-// newTXT('./tmp/list-price-xd-stock.txt', '');
-// getPriceXDOfName('3K-BAT', '69.00');
 
 function getListPriceStock() {
   try {
@@ -32,13 +27,12 @@ function loopThroughSplittedText(splittedText) {
       setTimeout(function () {
         getPriceXDOfName(splittedText[i].split(' ')[0], splittedText[i].split(' ')[1]);
         console.log(`- Get price of '${splittedText[i]}'`);
-      }, 1000 * i);      
+      }, 100 * i);      
     })(i);
   };
 }
 
 function getPriceXDOfName(name, price) {
-// https://www.set.or.th/set/companyrights.do?symbol=2S&ssoPageId=7&language=th&country=TH
   let a,b,c,d,e,f;
   const path = '/set/companyrights.do?symbol={symbol}&ssoPageId=7&language=th&country=TH'
     .replace('{symbol}', name)
@@ -49,42 +43,46 @@ function getPriceXDOfName(name, price) {
   }
 
   var request = https.request(options, function (res) {
+    var currentTime = new Date()
+    var year = parseInt(currentTime.getFullYear()) + 543
     var data = '';
     res.on('data', function (chunk) {
         data += chunk;
     });
     res.on('end', function () {
-      a = data.split('<td valign="top" style="text-align:center" nowrap>');
+      a = data.split('<td align="center" valign="top">');
       if (a[1]) {
-        if (a[1].search('XD    ') != -1) {
+        if (a[1].search('XD ') != -1 && a[1].search(year) != -1) {
           b = a[1].split('<td style="text-align:left;">');   
           c = b[2].split('</td>')[0];
           d = b[3].split('</td>')[0];
           e = b[4].split('</td>')[0];
-          f = parseFloat(e)/parseFloat(price);
+          f = e/price;
   
-          appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name} ${price} ${e}`);
-          console.log(`[1] ${name} ${price} ${e}`);
+          appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name},${price},${e},${f},${c},${d}`);
+          console.log(`[1] ${name},${price},${e},${f},${c},${d}`);
         } else {
           if (a[2]) {
-            if (a[2].search('XD    ') != -1) {
+            if (a[2].search('XD ') != -1 && a[2].search(year) != -1) {
               b = a[2].split('<td style="text-align:left;">');   
               c = b[2].split('</td>')[0];
               d = b[3].split('</td>')[0];
               e = b[4].split('</td>')[0];
+              f = e/price;
       
-              appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name} ${price} ${e}`);
-              console.log(`[2] ${name} ${price} ${e}`);
+              appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name},${price},${e},${f},${c},${d}`);
+              console.log(`[2] ${name},${price},${e},${f},${c},${d}`);
             } else {
               if (a[3]) {
-                if (a[3].search('XD    ') != -1) {
+                if (a[3].search('XD ') != -1 && a[3].search(year) != -1) {
                   b = a[3].split('<td style="text-align:left;">');   
                 c = b[2].split('</td>')[0];
                 d = b[3].split('</td>')[0];
                 e = b[4].split('</td>')[0];
+                f = e/price;
         
-                appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name} ${price} ${e}`);
-                console.log(`[3] ${name} ${price} ${e}`);
+                appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name},${price},${e},${f},${c},${d}`);
+                console.log(`[3] ${name},${price},${e},${f},${c},${d}`);
                 } else {
                   console.log('No data');
                 }
@@ -95,48 +93,6 @@ function getPriceXDOfName(name, price) {
           } 
         }
       }
-
-
-      // if (a[1].search('XD    ') != -1) {
-      //   b = a[1].split('<td style="text-align:left;">');   
-      //   c = b[2].split('</td>')[0];
-      //   d = b[3].split('</td>')[0];
-      //   e = b[4].split('</td>')[0];
-      //   f = parseFloat(e)/parseFloat(price);
-
-      //   appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name} ${price} ${e}`);
-
-      //   console.log(`[1] ${name} ${price} ${e}`);
-      // } else if (a[2].search('XD    ') != -1) {
-      //   b = a[2].split('<td style="text-align:left;">');   
-      //   c = b[2].split('</td>')[0];
-      //   d = b[3].split('</td>')[0];
-      //   e = b[4].split('</td>')[0];
-
-      //   appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name} ${price} ${e}`);
-      //   console.log(`[2] ${name} ${price} ${e}`);
-      // } else if (a[3]) {
-      //   if (a[3].search('XD    ') != -1) {
-      //     b = a[3].split('<td style="text-align:left;">');   
-      //   c = b[2].split('</td>')[0];
-      //   d = b[3].split('</td>')[0];
-      //   e = b[4].split('</td>')[0];
-
-      //   appendTXT('./tmp/list-price-xd-stock.txt', '\n' + `${name} ${price} ${e}`);
-      //   console.log(`[3] ${name} ${price} ${e}`);
-      //   }
-        
-      // } else {
-      //   console.log('No data');
-      // }
-      
-      // a = data.match(/<\/i>[0-9](.+)/g);
-      // console.log(a);
-      // if (a) {
-      //   b = a[0].replace('</i>', '');
-      //   appendTXT('./tmp/list-price-stock.txt', '\n' + `${name} ${b}`);
-      // }
-      // console.log(`${name} ${b}`);
     });
   });
   request.on('error', function (e) {
